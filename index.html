@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SwordXStaff Relic Tracker</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --card-border: #334155;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent: #38bdf8;
+      --gold: #fbbf24;
+      --green: #22c55e;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, sans-serif; }
+    body { background-color: var(--bg); color: var(--text); padding: 24px; }
+    header { text-align: center; margin-bottom: 24px; }
+    h1 { color: var(--accent); }
+    
+    .controls {
+      background: var(--card-bg); border: 1px solid var(--card-border);
+      padding: 16px; border-radius: 12px; margin-bottom: 24px;
+      display: flex; gap: 12px; flex-wrap: wrap;
+    }
+    .controls select, .controls input {
+      background: var(--bg); color: var(--text); border: 1px solid var(--card-border);
+      padding: 8px; border-radius: 6px; outline: none; flex: 1; min-width: 150px;
+    }
+
+    .grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px;
+    }
+    .set-card {
+      background: var(--card-bg); border: 1px solid var(--card-border);
+      border-radius: 12px; padding: 16px; display: flex; flex-direction: column; gap: 12px;
+    }
+    .set-header { display: flex; justify-content: space-between; border-bottom: 1px solid var(--card-border); padding-bottom: 8px; }
+    .set-bonuses { font-size: 0.8rem; color: var(--gold); }
+    
+    .relic-item {
+      background: var(--bg); border: 1px solid var(--card-border);
+      padding: 10px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;
+    }
+    .relic-info { display: flex; flex-direction: column; gap: 4px; }
+    .relic-name { font-weight: bold; font-size: 0.9rem; }
+    .relic-meta { font-size: 0.75rem; color: var(--text-muted); }
+    
+    .relic-actions { display: flex; align-items: center; gap: 8px; }
+    .relic-actions input[type="number"] {
+      width: 45px; background: var(--card-bg); color: var(--text); 
+      border: 1px solid var(--card-border); padding: 4px; border-radius: 4px; text-align: center;
+    }
+    .relic-actions input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--green); cursor: pointer; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>SwordXStaff Relic Tracker</h1>
+    <p>Track your sets, levels, and progress toward awakened bonuses.</p>
+  </header>
+
+  <div class="controls">
+    <select id="filter-region"><option value="">All Regions</option></select>
+    <select id="filter-stat"><option value="">All Stats</option></select>
+    <select id="sort-by">
+      <option value="progress">Closest to Awakened</option>
+      <option value="id">Set ID</option>
+    </select>
+  </div>
+
+  <div class="grid" id="grid"></div>
+
+  <script>
+    let relics = [];
+    let setsData = {};
+    let userData = JSON.parse(localStorage.getItem('swordxstaff_relics')) || {};
+
+    // Fetch the external JSON file
+    fetch('Relics.txt')
+      .then(response => response.json())
+      .then(data => {
+        relics = data;
+        processSets();
+        populateFilters();
+        renderGrid();
+      })
+      .catch(err => {
+        document.getElementById('grid').innerHTML = `<p style="color:red">Error loading Relics.txt. Ensure the file is in the same folder on GitHub Pages.</p>`;
+      });
+
+    function processSets() {
+      setsData = {};
+      relics.forEach(relic => {
+        if (!setsData[relic.set]) {
+          setsData[relic.set] = { id: relic.set, bonuses: relic.set_bonus, items: [] };
+        }
+        setsData[relic.set].items.push(relic);
+      });
+    }
+
+    function populateFilters() {
+      const regions = [...new Set(relics.map(r => r.region).filter(Boolean))].sort();
+      const stats = [...new Set(relics.flatMap(r => r.stats))].sort();
+      
+      const regionSelect = document.getElementById('filter-region');
+      regions.forEach(r => regionSelect.innerHTML += `<option value="${r}">${r}</option>`);
+      
+      const statSelect = document.getElementById('filter-stat');
+      stats.forEach(s => statSelect.innerHTML += `<option value="${s}">${s}</option>`);
+    }
+
+    function saveUserProgress(id, field, value) {
+      if (!userData[id]) userData[id] = { owned: false, level: 0 };
+      userData[id][field] = value;
+      localStorage.setItem('swordxstaff_relics', JSON.stringify(userData));
+      if (field === 'owned') renderGrid(); // Re-sort and re-render if ownership changes
+    }
+
+    function renderGrid() {
+      const grid = document.getElementById('grid');
+      grid.innerHTML = '';
+      
+      const regionFilter = document.getElementById('filter-region').value;
+      const statFilter = document.getElementById('filter-stat').value;
+      const sortBy = document.getElementById('sort-by').value;
+
+      // Convert sets object to array for sorting/filtering
+      let setsArray = Object.values(setsData).map(set => {
+        const ownedCount = set.items.filter(item => userData[item.id]?.owned).length;
+        set.progress = ownedCount / set.items.length;
+        return set;
+      });
+
+      // Sort
+      if (sortBy === 'progress') {
+        setsArray.sort((a, b) => b.progress - a.progress);
+      } else {
+        setsArray.sort((a, b) => a.id - b.id);
+      }
+
+      setsArray.forEach(set => {
+        // Filter items within the set
+        let filteredItems = set.items.filter(item => {
+          const matchRegion = !regionFilter || item.region === regionFilter;
+          const matchStat = !statFilter || item.stats.includes(statFilter);
+          return matchRegion && matchStat;
+        });
+
+        if (filteredItems.length === 0) return; // Hide set if no items match filters
+
+        // Build Bonus String
+        const bonuses = set.bonuses.map((b, i) => `${i+2}pc: ${b[0]}`).join(' | ');
+
+        let cardHtml = `
+          <div class="set-card">
+            <div class="set-header">
+              <h3>Set ${set.id}</h3>
+              <span style="color: var(${set.progress === 1 ? '--green' : '--text-muted'})">
+                ${Math.round(set.progress * 100)}% Awakened
+              </span>
+            </div>
+            <div class="set-bonuses">${bonuses}</div>
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+        `;
+
+        filteredItems.forEach(item => {
+          const userItem = userData[item.id] || { owned: false, level: 0 };
+          cardHtml += `
+            <div class="relic-item" style="${userItem.owned ? 'border-left: 4px solid var(--green);' : ''}">
+              <div class="relic-info">
+                <span class="relic-name">${item.name} <span style="color:var(--gold); font-size:0.7rem">[${item.rarity}]</span></span>
+                <span class="relic-meta">${item.region} | ${item.stats.join(', ')}</span>
+              </div>
+              <div class="relic-actions">
+                <input type="number" min="0" max="100" placeholder="Lvl" value="${userItem.level || ''}" 
+                  onchange="saveUserProgress('${item.id}', 'level', this.value)">
+                <input type="checkbox" ${userItem.owned ? 'checked' : ''} 
+                  onchange="saveUserProgress('${item.id}', 'owned', this.checked)">
+              </div>
+            </div>
+          `;
+        });
+
+        cardHtml += `</div></div>`;
+        grid.innerHTML += cardHtml;
+      });
+    }
+
+    // Event Listeners for filters
+    document.getElementById('filter-region').addEventListener('change', renderGrid);
+    document.getElementById('filter-stat').addEventListener('change', renderGrid);
+    document.getElementById('sort-by').addEventListener('change', renderGrid);
+
+  </script>
+</body>
+</html>
