@@ -18,7 +18,7 @@
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, sans-serif; }
     body { background-color: var(--bg); color: var(--text); padding: 24px; }
     header { text-align: center; margin-bottom: 24px; }
-    h1 { color: var(--accent); }
+    h1 { color: var(--accent); margin-bottom: 8px; }
     
     .controls {
       background: var(--card-bg); border: 1px solid var(--card-border);
@@ -31,36 +31,39 @@
     }
 
     .grid {
-      display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 20px;
     }
     .set-card {
       background: var(--card-bg); border: 1px solid var(--card-border);
       border-radius: 12px; padding: 16px; display: flex; flex-direction: column; gap: 12px;
     }
     .set-header { display: flex; justify-content: space-between; border-bottom: 1px solid var(--card-border); padding-bottom: 8px; }
-    .set-bonuses { font-size: 0.8rem; color: var(--gold); }
+    .set-bonuses { font-size: 0.85rem; background: var(--bg); padding: 8px; border-radius: 6px; }
     
     .relic-item {
       background: var(--bg); border: 1px solid var(--card-border);
-      padding: 10px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center;
+      padding: 10px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; gap: 8px;
     }
-    .relic-info { display: flex; flex-direction: column; gap: 4px; }
+    .relic-info { display: flex; flex-direction: column; gap: 4px; flex: 1; }
     .relic-name { font-weight: bold; font-size: 0.9rem; }
     .relic-meta { font-size: 0.75rem; color: var(--text-muted); }
     
-    .relic-actions { display: flex; align-items: center; gap: 8px; }
+    .relic-actions { display: flex; align-items: center; gap: 6px; }
     .relic-actions input[type="number"] {
-      width: 45px; background: var(--card-bg); color: var(--text); 
-      border: 1px solid var(--card-border); padding: 4px; border-radius: 4px; text-align: center;
+      width: 50px; background: var(--card-bg); color: var(--text); 
+      border: 1px solid var(--card-border); padding: 6px; border-radius: 4px; text-align: center;
     }
-    .relic-actions input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--green); cursor: pointer; }
+    .relic-actions select {
+      background: var(--card-bg); color: var(--text); border: 1px solid var(--card-border); 
+      padding: 6px; border-radius: 4px; outline: none; cursor: pointer; font-size: 0.85rem;
+    }
   </style>
 </head>
 <body>
 
   <header>
     <h1>SwordXStaff Relic Tracker</h1>
-    <p>Track your sets, levels, and progress toward awakened bonuses.</p>
+    <p>Track your sets, levels, and progress toward 3★ and Awakened bonuses.</p>
   </header>
 
   <div class="controls">
@@ -79,9 +82,20 @@
     let setsData = {};
     let userData = JSON.parse(localStorage.getItem('swordxstaff_relics')) || {};
 
-    // Fetch the external JSON file
+    // Silent data migration: converts old checkbox 'owned' data to the new 'stars' data format
+    for (let id in userData) {
+      if (userData[id].owned !== undefined && userData[id].stars === undefined) {
+        userData[id].stars = userData[id].owned ? 0 : -1;
+        delete userData[id].owned;
+      }
+    }
+    localStorage.setItem('swordxstaff_relics', JSON.stringify(userData));
+
     fetch('Relics.txt')
-      .then(response => response.json())
+      .then(response => {
+        if (!response.ok) throw new Error("File not found");
+        return response.json();
+      })
       .then(data => {
         relics = data;
         processSets();
@@ -89,7 +103,7 @@
         renderGrid();
       })
       .catch(err => {
-        document.getElementById('grid').innerHTML = `<p style="color:red">Error loading Relics.txt. Ensure the file is in the same folder on GitHub Pages.</p>`;
+        document.getElementById('grid').innerHTML = `<p style="color:red; grid-column: 1 / -1; text-align: center;">Error loading Relics.txt. Ensure the file is uploaded to GitHub and named exactly 'Relics.txt'.</p>`;
       });
 
     function processSets() {
@@ -113,12 +127,14 @@
       stats.forEach(s => statSelect.innerHTML += `<option value="${s}">${s}</option>`);
     }
 
-    function saveUserProgress(id, field, value) {
-      if (!userData[id]) userData[id] = { owned: false, level: 0 };
-      userData[id][field] = value;
+    window.saveUserProgress = function(id, field, value) {
+      if (!userData[id]) userData[id] = { stars: -1, level: 0 };
+      if (field === 'stars') userData[id].stars = parseInt(value);
+      if (field === 'level') userData[id].level = parseInt(value) || 0;
+      
       localStorage.setItem('swordxstaff_relics', JSON.stringify(userData));
-      if (field === 'owned') renderGrid(); // Re-sort and re-render if ownership changes
-    }
+      if (field === 'stars') renderGrid(); // Re-render to highlight newly unlocked set bonuses
+    };
 
     function renderGrid() {
       const grid = document.getElementById('grid');
@@ -128,39 +144,58 @@
       const statFilter = document.getElementById('filter-stat').value;
       const sortBy = document.getElementById('sort-by').value;
 
-      // Convert sets object to array for sorting/filtering
+      // Calculate set progress and active bonuses based on star levels
       let setsArray = Object.values(setsData).map(set => {
-        const ownedCount = set.items.filter(item => userData[item.id]?.owned).length;
-        set.progress = ownedCount / set.items.length;
+        let totalScore = 0;
+        let maxScore = set.items.length * 6; // 1 point for owning, + up to 5 points for stars
+        let minStars = 5;
+        let ownedCount = 0;
+
+        set.items.forEach(item => {
+          let uItem = userData[item.id] || { stars: -1 };
+          if (uItem.stars >= 0) {
+            ownedCount++;
+            totalScore += (1 + uItem.stars);
+            if (uItem.stars < minStars) minStars = uItem.stars;
+          } else {
+            minStars = 0;
+          }
+        });
+
+        set.isComplete = (ownedCount === set.items.length);
+        set.minStars = set.isComplete ? minStars : 0;
+        set.progress = totalScore / maxScore;
         return set;
       });
 
-      // Sort
-      if (sortBy === 'progress') {
-        setsArray.sort((a, b) => b.progress - a.progress);
-      } else {
-        setsArray.sort((a, b) => a.id - b.id);
-      }
+      if (sortBy === 'progress') setsArray.sort((a, b) => b.progress - a.progress);
+      else setsArray.sort((a, b) => a.id - b.id);
 
       setsArray.forEach(set => {
-        // Filter items within the set
         let filteredItems = set.items.filter(item => {
           const matchRegion = !regionFilter || item.region === regionFilter;
           const matchStat = !statFilter || item.stats.includes(statFilter);
           return matchRegion && matchStat;
         });
 
-        if (filteredItems.length === 0) return; // Hide set if no items match filters
+        if (filteredItems.length === 0) return;
 
-        // Build Bonus String
-        const bonuses = set.bonuses.map((b, i) => `${i+2}pc: ${b[0]}`).join(' | ');
+        // Dynamic styling for unlocked bonuses
+        const bonuses = set.bonuses.map((b, i) => {
+          let isActive = (i === 0 && set.isComplete) || 
+                         (i === 1 && set.isComplete && set.minStars >= 3) || 
+                         (i === 2 && set.isComplete && set.minStars >= 5);
+          let color = isActive ? 'var(--gold)' : 'var(--text-muted)';
+          let label = i === 0 ? "Set" : i === 1 ? "3★" : "5★";
+          return `<span style="color: ${color}; font-weight: ${isActive ? 'bold' : 'normal'}">${label}: ${b[0]}</span>`;
+        }).join(' | ');
 
         let cardHtml = `
           <div class="set-card">
             <div class="set-header">
               <h3>Set ${set.id}</h3>
               <span style="color: var(${set.progress === 1 ? '--green' : '--text-muted'})">
-                ${Math.round(set.progress * 100)}% Awakened
+                ${Math.round(set.progress * 100)}% Maxed
               </span>
             </div>
             <div class="set-bonuses">${bonuses}</div>
@@ -168,18 +203,27 @@
         `;
 
         filteredItems.forEach(item => {
-          const userItem = userData[item.id] || { owned: false, level: 0 };
+          const userItem = userData[item.id] || { stars: -1, level: '' };
+          const borderColor = userItem.stars >= 0 ? 'var(--green)' : 'var(--card-border)';
+
           cardHtml += `
-            <div class="relic-item" style="${userItem.owned ? 'border-left: 4px solid var(--green);' : ''}">
+            <div class="relic-item" style="border-left: 4px solid ${borderColor}">
               <div class="relic-info">
                 <span class="relic-name">${item.name} <span style="color:var(--gold); font-size:0.7rem">[${item.rarity}]</span></span>
-                <span class="relic-meta">${item.region} | ${item.stats.join(', ')}</span>
+                <span class="relic-meta">${item.region || 'Unknown'} | ${item.stats.join(', ')}</span>
               </div>
               <div class="relic-actions">
-                <input type="number" min="0" max="100" placeholder="Lvl" value="${userItem.level || ''}" 
+                <input type="number" min="0" max="999" placeholder="Lvl" value="${userItem.level || ''}" 
                   onchange="saveUserProgress('${item.id}', 'level', this.value)">
-                <input type="checkbox" ${userItem.owned ? 'checked' : ''} 
-                  onchange="saveUserProgress('${item.id}', 'owned', this.checked)">
+                <select style="border-color: ${borderColor}" onchange="saveUserProgress('${item.id}', 'stars', this.value)">
+                  <option value="-1" ${userItem.stars === -1 ? 'selected' : ''}>Not Owned</option>
+                  <option value="0" ${userItem.stars === 0 ? 'selected' : ''}>Owned (0★)</option>
+                  <option value="1" ${userItem.stars === 1 ? 'selected' : ''}>1★</option>
+                  <option value="2" ${userItem.stars === 2 ? 'selected' : ''}>2★</option>
+                  <option value="3" ${userItem.stars === 3 ? 'selected' : ''}>3★</option>
+                  <option value="4" ${userItem.stars === 4 ? 'selected' : ''}>4★</option>
+                  <option value="5" ${userItem.stars === 5 ? 'selected' : ''}>5★</option>
+                </select>
               </div>
             </div>
           `;
@@ -190,7 +234,6 @@
       });
     }
 
-    // Event Listeners for filters
     document.getElementById('filter-region').addEventListener('change', renderGrid);
     document.getElementById('filter-stat').addEventListener('change', renderGrid);
     document.getElementById('sort-by').addEventListener('change', renderGrid);
