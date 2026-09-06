@@ -70,7 +70,7 @@
 
   <header>
     <h1>SwordXStaff Relic Tracker</h1>
-    <p>Track your sets, levels, and progress toward 3★ and Awakened bonuses.</p>
+    <p>Track your sets and progress toward 3★ and Awakened bonuses.</p>
   </header>
 
   <div class="controls">
@@ -134,9 +134,8 @@
     }
 
     window.saveUserProgress = function(id, field, value) {
-      if (!userData[id]) userData[id] = { stars: -1, level: 0 };
+      if (!userData[id]) userData[id] = { stars: -1};
       if (field === 'stars') userData[id].stars = parseInt(value);
-      if (field === 'level') userData[id].level = parseInt(value) || 0;
       
       localStorage.setItem('swordxstaff_relics', JSON.stringify(userData));
       if (field === 'stars') renderGrid(); 
@@ -207,7 +206,7 @@
         `;
 
         filteredItems.forEach(item => {
-          const userItem = userData[item.id] || { stars: -1, level: '' };
+          const userItem = userData[item.id] || { stars: -1};
           const borderColor = userItem.stars >= 0 ? 'var(--green)' : 'var(--card-border)';
           const iconUrl = `https://lootandwaifus.com/treasures/swordxstaff/${item.icon}`;
 
@@ -221,8 +220,6 @@
                 </div>
               </div>
               <div class="relic-actions">
-                <input type="number" min="0" max="999" placeholder="Lvl" value="${userItem.level || ''}" 
-                  onchange="saveUserProgress('${item.id}', 'level', this.value)">
                 <select style="border-color: ${borderColor}" onchange="saveUserProgress('${item.id}', 'stars', this.value)">
                   <option value="-1" ${userItem.stars === -1 ? 'selected' : ''}>Not Owned</option>
                   <option value="0" ${userItem.stars === 0 ? 'selected' : ''}>Owned (0★)</option>
