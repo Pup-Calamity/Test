@@ -31,7 +31,7 @@
     }
 
     .grid {
-      display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 20px;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 20px;
     }
     .set-card {
       background: var(--card-bg); border: 1px solid var(--card-border);
@@ -44,11 +44,18 @@
       background: var(--bg); border: 1px solid var(--card-border);
       padding: 10px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; gap: 8px;
     }
-    .relic-info { display: flex; flex-direction: column; gap: 4px; flex: 1; }
-    .relic-name { font-weight: bold; font-size: 0.9rem; }
-    .relic-meta { font-size: 0.75rem; color: var(--text-muted); }
+    .relic-main-info {
+      display: flex; align-items: center; gap: 12px; flex: 1; min-width: 0;
+    }
+    .relic-icon {
+      width: 44px; height: 44px; border-radius: 6px; object-fit: contain;
+      background: #000; border: 1px solid var(--card-border);
+    }
+    .relic-info { display: flex; flex-direction: column; gap: 4px; overflow: hidden; }
+    .relic-name { font-weight: bold; font-size: 0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .relic-meta { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
     
-    .relic-actions { display: flex; align-items: center; gap: 6px; }
+    .relic-actions { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
     .relic-actions input[type="number"] {
       width: 50px; background: var(--card-bg); color: var(--text); 
       border: 1px solid var(--card-border); padding: 6px; border-radius: 4px; text-align: center;
@@ -82,7 +89,6 @@
     let setsData = {};
     let userData = JSON.parse(localStorage.getItem('swordxstaff_relics')) || {};
 
-    // Silent data migration: converts old checkbox 'owned' data to the new 'stars' data format
     for (let id in userData) {
       if (userData[id].owned !== undefined && userData[id].stars === undefined) {
         userData[id].stars = userData[id].owned ? 0 : -1;
@@ -133,7 +139,7 @@
       if (field === 'level') userData[id].level = parseInt(value) || 0;
       
       localStorage.setItem('swordxstaff_relics', JSON.stringify(userData));
-      if (field === 'stars') renderGrid(); // Re-render to highlight newly unlocked set bonuses
+      if (field === 'stars') renderGrid(); 
     };
 
     function renderGrid() {
@@ -144,10 +150,9 @@
       const statFilter = document.getElementById('filter-stat').value;
       const sortBy = document.getElementById('sort-by').value;
 
-      // Calculate set progress and active bonuses based on star levels
       let setsArray = Object.values(setsData).map(set => {
         let totalScore = 0;
-        let maxScore = set.items.length * 6; // 1 point for owning, + up to 5 points for stars
+        let maxScore = set.items.length * 6; 
         let minStars = 5;
         let ownedCount = 0;
 
@@ -180,7 +185,6 @@
 
         if (filteredItems.length === 0) return;
 
-        // Dynamic styling for unlocked bonuses
         const bonuses = set.bonuses.map((b, i) => {
           let isActive = (i === 0 && set.isComplete) || 
                          (i === 1 && set.isComplete && set.minStars >= 3) || 
@@ -205,12 +209,16 @@
         filteredItems.forEach(item => {
           const userItem = userData[item.id] || { stars: -1, level: '' };
           const borderColor = userItem.stars >= 0 ? 'var(--green)' : 'var(--card-border)';
+          const iconUrl = `https://lootandwaifus.com/treasures/swordxstaff/${item.icon}`;
 
           cardHtml += `
             <div class="relic-item" style="border-left: 4px solid ${borderColor}">
-              <div class="relic-info">
-                <span class="relic-name">${item.name} <span style="color:var(--gold); font-size:0.7rem">[${item.rarity}]</span></span>
-                <span class="relic-meta">${item.region || 'Unknown'} | ${item.stats.join(', ')}</span>
+              <div class="relic-main-info">
+                <img src="${iconUrl}" alt="${item.name}" class="relic-icon" loading="lazy" />
+                <div class="relic-info">
+                  <span class="relic-name">${item.name} <span style="color:var(--gold); font-size:0.7rem">[${item.rarity}]</span></span>
+                  <span class="relic-meta">${item.region || 'Unknown'} | ${item.stats.join(', ')}</span>
+                </div>
               </div>
               <div class="relic-actions">
                 <input type="number" min="0" max="999" placeholder="Lvl" value="${userItem.level || ''}" 
