@@ -551,13 +551,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "III",
     "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60244,
+    "set": "Fire in Heart",
     "set_bonus": [
       [
         "SPD"
@@ -759,13 +759,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aqualis",
-    "area": "",
+    "area": "XIII",
     "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60343,
+    "set": "Cicada's Summer Rain",
     "set_bonus": [
       [
         "SPD"
@@ -1031,13 +1031,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "V",
     "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60241,
+    "set": "Flames of Discord",
     "set_bonus": [
       [
         "ATK"
@@ -1396,12 +1396,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 69204,
+    "set": "Mortal Flame",
     "set_bonus": [
       [
         "HP"
@@ -1681,13 +1681,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aqualis",
-    "area": "",
+    "area": "III",
     "gacha": "Ukiyo Tales",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60342,
+    "set": "Galefeather",
     "set_bonus": [
       [
         "DEF"
@@ -1708,12 +1708,12 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 69203,
+    "set": "Misty Rain",
     "set_bonus": [
       [
         "ATK"
@@ -1734,12 +1734,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 69201,
+    "set": "Earthly Dream",
     "set_bonus": [
       [
         "DEF"
@@ -1837,13 +1837,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aqualis",
-    "area": "",
+    "area": "XVIII",
     "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60342,
+    "set": "Galefeather",
     "set_bonus": [
       [
         "DEF"
@@ -2461,13 +2461,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
-    "area": "",
+    "area": "II",
     "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60442,
+    "set": "Spring's Awakening",
     "set_bonus": [
       [
         "SPD"
@@ -2696,12 +2696,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 69200,
+    "set": "Hustle of Life",
     "set_bonus": [
       [
         "SPD"
@@ -2826,12 +2826,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 69204,
+    "set": "Mortal Flame",
     "set_bonus": [
       [
         "HP"
@@ -3129,7 +3129,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60341,
+    "set": "Echoing Vale",
     "set_bonus": [
       [
         "ATK"
@@ -3175,13 +3175,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Verdantglade",
-    "area": "",
+    "area": "II",
     "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60144,
+    "set": "Searing Marks",
     "set_bonus": [
       [
         "HP"
@@ -3670,12 +3670,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 69200,
+    "set": "Hustle of Life",
     "set_bonus": [
       [
         "SPD"
@@ -3935,7 +3935,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60143,
+    "set": "Crystal Ripples",
     "set_bonus": [
       [
         "ATK"
@@ -4007,13 +4007,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "I",
     "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60243,
+    "set": "Invisible Flows",
     "set_bonus": [
       [
         "DEF"
@@ -4219,7 +4219,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60241,
+    "set": "Flames of Discord",
     "set_bonus": [
       [
         "ATK"
@@ -5041,13 +5041,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XI",
     "gacha": "Sylvan Relics",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60143,
+    "set": "Crystal Ripples",
     "set_bonus": [
       [
         "ATK"
@@ -5146,12 +5146,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 69201,
+    "set": "Earthly Dream",
     "set_bonus": [
       [
         "DEF"
@@ -5457,13 +5457,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aqualis",
-    "area": "",
+    "area": "XVI",
     "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60343,
+    "set": "Cicada's Summer Rain",
     "set_bonus": [
       [
         "SPD"
@@ -5758,12 +5758,12 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 69202,
+    "set": "Gentle Grace",
     "set_bonus": [
       [
         "SPD"
@@ -5783,13 +5783,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Verdantglade",
-    "area": "",
+    "area": "X",
     "gacha": "Sylvan Relics",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60140,
+    "set": "To The Light",
     "set_bonus": [
       [
         "SPD"
@@ -5809,13 +5809,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aqualis",
-    "area": "",
+    "area": "VIII",
     "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60344,
+    "set": "Hanabi Festival",
     "set_bonus": [
       [
         "HP"
@@ -5862,12 +5862,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 69201,
+    "set": "Earthly Dream",
     "set_bonus": [
       [
         "DEF"
@@ -6121,13 +6121,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XI",
     "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60440,
+    "set": "First Lantern Glow",
     "set_bonus": [
       [
         "SPD"
@@ -6174,12 +6174,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 69204,
+    "set": "Mortal Flame",
     "set_bonus": [
       [
         "HP"
@@ -6563,13 +6563,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XIII",
     "gacha": "Sylvan Relics",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60144,
+    "set": "Searing Marks",
     "set_bonus": [
       [
         "HP"
@@ -6595,7 +6595,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60444,
+    "set": "Vernal Warmth",
     "set_bonus": [
       [
         "HP"
@@ -6673,7 +6673,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60344,
+    "set": "Hanabi Festival",
     "set_bonus": [
       [
         "HP"
@@ -6693,13 +6693,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aqualis",
-    "area": "",
+    "area": "II",
     "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60344,
+    "set": "Hanabi Festival",
     "set_bonus": [
       [
         "HP"
@@ -7083,13 +7083,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aqualis",
-    "area": "",
+    "area": "VI",
     "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60342,
+    "set": "Galefeather",
     "set_bonus": [
       [
         "DEF"
@@ -7161,13 +7161,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aqualis",
-    "area": "",
+    "area": "XII",
     "gacha": "Ukiyo Tales",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60344,
+    "set": "Hanabi Festival",
     "set_bonus": [
       [
         "HP"
@@ -7395,13 +7395,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XVIII",
     "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60442,
+    "set": "Spring's Awakening",
     "set_bonus": [
       [
         "SPD"
@@ -7681,13 +7681,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XII",
     "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60142,
+    "set": "Guarding Winds",
     "set_bonus": [
       [
         "SPD"
@@ -8383,13 +8383,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Verdantglade",
-    "area": "",
+    "area": "VIII",
     "gacha": "Sylvan Relics",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60141,
+    "set": "Legend of the Goblin Sages",
     "set_bonus": [
       [
         "DEF"
@@ -8409,13 +8409,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XVII",
     "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60141,
+    "set": "Legend of the Goblin Sages",
     "set_bonus": [
       [
         "DEF"
@@ -8435,13 +8435,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XV",
     "gacha": "Sylvan Relics",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60141,
+    "set": "Legend of the Goblin Sages",
     "set_bonus": [
       [
         "DEF"
@@ -8461,13 +8461,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Verdantglade",
-    "area": "",
+    "area": "VI",
     "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60141,
+    "set": "Legend of the Goblin Sages",
     "set_bonus": [
       [
         "DEF"
@@ -8719,13 +8719,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "VII",
     "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60240,
+    "set": "Flicker Blink",
     "set_bonus": [
       [
         "HP"
@@ -8771,13 +8771,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
-    "area": "",
+    "area": "VII",
     "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60440,
+    "set": "First Lantern Glow",
     "set_bonus": [
       [
         "SPD"
@@ -8797,13 +8797,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XII",
     "gacha": "Machina Trove",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60241,
+    "set": "Flames of Discord",
     "set_bonus": [
       [
         "ATK"
@@ -9344,12 +9344,12 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 69202,
+    "set": "Gentle Grace",
     "set_bonus": [
       [
         "SPD"
@@ -9641,13 +9641,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XVIII",
     "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60243,
+    "set": "Invisible Flows",
     "set_bonus": [
       [
         "DEF"
@@ -10251,13 +10251,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
-    "area": "",
+    "area": "X",
     "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60442,
+    "set": "Spring's Awakening",
     "set_bonus": [
       [
         "SPD"
@@ -10491,7 +10491,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60441,
+    "set": "Ink Elegance",
     "set_bonus": [
       [
         "DEF"
@@ -10875,13 +10875,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Verdantglade",
-    "area": "",
+    "area": "VII",
     "gacha": "Sylvan Relics",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60142,
+    "set": "Guarding Winds",
     "set_bonus": [
       [
         "SPD"
@@ -11439,7 +11439,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60140,
+    "set": "To The Light",
     "set_bonus": [
       [
         "SPD"
@@ -11485,13 +11485,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XI",
     "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60240,
+    "set": "Flicker Blink",
     "set_bonus": [
       [
         "HP"
@@ -11511,13 +11511,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Verdantglade",
-    "area": "",
+    "area": "III",
     "gacha": "Sylvan Relics",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60140,
+    "set": "To The Light",
     "set_bonus": [
       [
         "SPD"
@@ -11537,13 +11537,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aqualis",
-    "area": "",
+    "area": "IX",
     "gacha": "Ukiyo Tales",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60340,
+    "set": "Komorebi Glade",
     "set_bonus": [
       [
         "HP"
@@ -11835,13 +11835,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aqualis",
-    "area": "",
+    "area": "XIV",
     "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60340,
+    "set": "Komorebi Glade",
     "set_bonus": [
       [
         "HP"
@@ -11861,13 +11861,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "II",
     "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60241,
+    "set": "Flames of Discord",
     "set_bonus": [
       [
         "ATK"
@@ -12327,13 +12327,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "IX",
     "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60243,
+    "set": "Invisible Flows",
     "set_bonus": [
       [
         "DEF"
@@ -12717,13 +12717,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XVI",
     "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60144,
+    "set": "Searing Marks",
     "set_bonus": [
       [
         "HP"
@@ -12795,13 +12795,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Verdantglade",
-    "area": "",
+    "area": "V",
     "gacha": "Sylvan Relics",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60144,
+    "set": "Searing Marks",
     "set_bonus": [
       [
         "HP"
@@ -12821,13 +12821,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XV",
     "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60441,
+    "set": "Ink Elegance",
     "set_bonus": [
       [
         "DEF"
@@ -12847,13 +12847,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
-    "area": "",
+    "area": "IV",
     "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60441,
+    "set": "Ink Elegance",
     "set_bonus": [
       [
         "DEF"
@@ -13147,13 +13147,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XVII",
     "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60440,
+    "set": "First Lantern Glow",
     "set_bonus": [
       [
         "SPD"
@@ -13174,12 +13174,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 69200,
+    "set": "Hustle of Life",
     "set_bonus": [
       [
         "SPD"
@@ -13303,13 +13303,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aqualis",
-    "area": "",
+    "area": "XVII",
     "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60341,
+    "set": "Echoing Vale",
     "set_bonus": [
       [
         "ATK"
@@ -13355,13 +13355,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "VI",
     "gacha": "Machina Trove",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60243,
+    "set": "Invisible Flows",
     "set_bonus": [
       [
         "DEF"
@@ -13486,12 +13486,12 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 69203,
+    "set": "Misty Rain",
     "set_bonus": [
       [
         "ATK"
@@ -13823,13 +13823,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
-    "area": "",
+    "area": "V",
     "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60442,
+    "set": "Spring's Awakening",
     "set_bonus": [
       [
         "SPD"
@@ -13849,13 +13849,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aqualis",
-    "area": "",
+    "area": "XI",
     "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60340,
+    "set": "Komorebi Glade",
     "set_bonus": [
       [
         "HP"
@@ -13901,13 +13901,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Verdantglade",
-    "area": "",
+    "area": "IV",
     "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60143,
+    "set": "Crystal Ripples",
     "set_bonus": [
       [
         "ATK"
@@ -14147,13 +14147,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aqualis",
-    "area": "",
+    "area": "VII",
     "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60342,
+    "set": "Galefeather",
     "set_bonus": [
       [
         "DEF"
@@ -14304,12 +14304,12 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 69202,
+    "set": "Gentle Grace",
     "set_bonus": [
       [
         "SPD"
@@ -15055,13 +15055,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "X",
     "gacha": "Machina Trove",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60240,
+    "set": "Flicker Blink",
     "set_bonus": [
       [
         "HP"
@@ -15315,13 +15315,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XVI",
     "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60443,
+    "set": "Moon Clarity",
     "set_bonus": [
       [
         "ATK"
@@ -15341,13 +15341,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aqualis",
-    "area": "",
+    "area": "X",
     "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60341,
+    "set": "Echoing Vale",
     "set_bonus": [
       [
         "ATK"
@@ -15497,13 +15497,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XIV",
     "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60143,
+    "set": "Crystal Ripples",
     "set_bonus": [
       [
         "ATK"
@@ -15705,13 +15705,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
-    "area": "",
+    "area": "III",
     "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60443,
+    "set": "Moon Clarity",
     "set_bonus": [
       [
         "ATK"
@@ -15732,12 +15732,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 69204,
+    "set": "Mortal Flame",
     "set_bonus": [
       [
         "HP"
@@ -15783,13 +15783,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aqualis",
-    "area": "",
+    "area": "V",
     "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60341,
+    "set": "Echoing Vale",
     "set_bonus": [
       [
         "ATK"
@@ -15925,13 +15925,13 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
-    "area": "",
+    "area": "VIII",
     "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60441,
+    "set": "Ink Elegance",
     "set_bonus": [
       [
         "DEF"
@@ -16341,13 +16341,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XIV",
     "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60244,
+    "set": "Fire in Heart",
     "set_bonus": [
       [
         "SPD"
@@ -16419,13 +16419,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
-    "area": "",
+    "area": "IX",
     "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60443,
+    "set": "Moon Clarity",
     "set_bonus": [
       [
         "ATK"
@@ -16939,13 +16939,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XVII",
     "gacha": "Machina Trove",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60244,
+    "set": "Fire in Heart",
     "set_bonus": [
       [
         "SPD"
@@ -16966,12 +16966,12 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 69203,
+    "set": "Misty Rain",
     "set_bonus": [
       [
         "ATK"
@@ -17069,13 +17069,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aqualis",
-    "area": "",
+    "area": "I",
     "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60343,
+    "set": "Cicada's Summer Rain",
     "set_bonus": [
       [
         "SPD"
@@ -17095,13 +17095,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "IV",
     "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60244,
+    "set": "Fire in Heart",
     "set_bonus": [
       [
         "SPD"
@@ -17121,13 +17121,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
-    "area": "",
+    "area": "I",
     "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60440,
+    "set": "First Lantern Glow",
     "set_bonus": [
       [
         "SPD"
@@ -17746,12 +17746,12 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 69202,
+    "set": "Gentle Grace",
     "set_bonus": [
       [
         "SPD"
@@ -18291,13 +18291,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Verdantglade",
-    "area": "",
+    "area": "I",
     "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60140,
+    "set": "To The Light",
     "set_bonus": [
       [
         "SPD"
@@ -18421,13 +18421,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XV",
     "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60240,
+    "set": "Flicker Blink",
     "set_bonus": [
       [
         "HP"
@@ -18616,12 +18616,12 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 69203,
+    "set": "Misty Rain",
     "set_bonus": [
       [
         "ATK"
@@ -18719,13 +18719,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "VIII",
     "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60242,
+    "set": "Yearning for Freedom",
     "set_bonus": [
       [
         "HP"
@@ -19057,13 +19057,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XII",
     "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60444,
+    "set": "Vernal Warmth",
     "set_bonus": [
       [
         "HP"
@@ -19745,13 +19745,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
-    "area": "",
+    "area": "VI",
     "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60444,
+    "set": "Vernal Warmth",
     "set_bonus": [
       [
         "HP"
@@ -19913,13 +19913,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XVI",
     "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60242,
+    "set": "Yearning for Freedom",
     "set_bonus": [
       [
         "HP"
@@ -20055,13 +20055,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XIII",
     "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60443,
+    "set": "Moon Clarity",
     "set_bonus": [
       [
         "ATK"
@@ -20741,13 +20741,13 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XIV",
     "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60444,
+    "set": "Vernal Warmth",
     "set_bonus": [
       [
         "HP"
@@ -20975,13 +20975,13 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aqualis",
-    "area": "",
+    "area": "XV",
     "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
     ],
-    "set": 60340,
+    "set": "Komorebi Glade",
     "set_bonus": [
       [
         "HP"
@@ -21105,13 +21105,13 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aqualis",
-    "area": "",
+    "area": "IV",
     "gacha": "Ukiyo Tales",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 60343,
+    "set": "Cicada's Summer Rain",
     "set_bonus": [
       [
         "SPD"
@@ -21157,13 +21157,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Verdantglade",
-    "area": "",
+    "area": "IX",
     "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
     ],
-    "set": 60142,
+    "set": "Guarding Winds",
     "set_bonus": [
       [
         "SPD"
@@ -21605,7 +21605,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60242,
+    "set": "Yearning for Freedom",
     "set_bonus": [
       [
         "HP"
@@ -21651,13 +21651,13 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XIII",
     "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 60242,
+    "set": "Yearning for Freedom",
     "set_bonus": [
       [
         "HP"
@@ -22132,12 +22132,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+10",
     "stats": [
       "SPD"
     ],
-    "set": 69201,
+    "set": "Earthly Dream",
     "set_bonus": [
       [
         "DEF"
@@ -22158,12 +22158,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+69",
     "stats": [
       "HP"
     ],
-    "set": 69200,
+    "set": "Hustle of Life",
     "set_bonus": [
       [
         "SPD"
@@ -22267,7 +22267,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60142,
+    "set": "Guarding Winds",
     "set_bonus": [
       [
         "SPD"
