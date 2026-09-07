@@ -191,11 +191,15 @@
         const setHasBonusStat = !statFilter || flatBonuses.includes(statFilter);
         let setTitle = set.id === 'Standalone' ? 'Standalone Relics' : `${set.id}`;
 
-        let filteredItems = set.items.filter(item => {
+          let filteredItems = set.items.filter(item => {
+          // EXCLUSION LOGIC: Hide if it's Hapadi/Aethyris and NOT a gacha item
+          const isHapadiOrAethyris = item.region === 'Hapadi' || item.region === 'Aethyris';
+          const isGacha = item.gacha || item.Gatcha;
+          if (isHapadiOrAethyris && !isGacha) return false;
+
           const matchRegion = !regionFilter || item.region === regionFilter;
           const matchStat = setHasBonusStat || (item.stats && item.stats.includes(statFilter));
           
-          // Check if search matches the Set ID/Name OR the specific Relic Name
           const matchSearch = !searchFilter || 
                               setTitle.toLowerCase().includes(searchFilter) || 
                               item.name.toLowerCase().includes(searchFilter);
