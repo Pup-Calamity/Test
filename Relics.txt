@@ -2980,7 +2980,7 @@
     "name": "Celestial Armor Charm",
     "rarity": "Legendary",
     "element": "Water",
-    "region": "",
+    "region": "Stellaris",
     "description": "+5.8%",
     "stats": [
       "PvE DMG RES"
@@ -4091,7 +4091,7 @@
     "stats": [
       "Block Rate"
     ],
-    "set": 60016,
+    "set": "The Wilds",
     "set_bonus": [
       [
         "Block Rate"
@@ -4188,7 +4188,7 @@
     "name": "Dark Armor Charm",
     "rarity": "Legendary",
     "element": "Dark",
-    "region": "",
+    "region": "Stellaris",
     "description": "+5.8%",
     "stats": [
       "PvP DMG RES"
@@ -4200,7 +4200,7 @@
     "name": "Dark Blade Charm",
     "rarity": "Legendary",
     "element": "Dark",
-    "region": "",
+    "region": "Stellaris",
     "description": "+5.8%",
     "stats": [
       "PvP Bonus DMG"
@@ -4692,7 +4692,7 @@
     "name": "Divine Codex Charm",
     "rarity": "Legendary",
     "element": "Water",
-    "region": "",
+    "region": "Stellaris",
     "description": "+5.8%",
     "stats": [
       "PvE Bonus DMG"
@@ -4730,7 +4730,7 @@
     "name": "Divine Shield Charm",
     "rarity": "Legendary",
     "element": "Light",
-    "region": "",
+    "region": "Stellaris",
     "description": "+5.8%",
     "stats": [
       "PvE DMG RES"
@@ -4742,7 +4742,7 @@
     "name": "Divine Staff Charm",
     "rarity": "Legendary",
     "element": "Wind",
-    "region": "",
+    "region": "Stellaris",
     "description": "+5.8%",
     "stats": [
       "PvE Bonus DMG"
@@ -5529,7 +5529,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60000,
+    "set": "Elysian Radiance",
     "set_bonus": [
       [
         "Crit Rate"
@@ -8363,7 +8363,7 @@
     "stats": [
       "Crit RES"
     ],
-    "set": 60016,
+    "set": "The Wilds",
     "set_bonus": [
       [
         "Block Rate"
@@ -9394,7 +9394,7 @@
     "name": "Hero's Handbook",
     "rarity": "Mythic",
     "element": "Wind",
-    "region": "",
+    "region": "Stellaris",
     "description": "+7%",
     "stats": [
       "EXP Gain Boost"
@@ -9595,7 +9595,7 @@
     "stats": [
       "DMG Boost"
     ],
-    "set": 60000,
+    "set": "Elysian Radiance",
     "set_bonus": [
       [
         "Crit Rate"
@@ -11212,7 +11212,7 @@
     "name": "Lucky Statue",
     "rarity": "Mythic",
     "element": "Light",
-    "region": "",
+    "region": "Grand Treasure Hunt",
     "description": "+1,400",
     "stats": [
       "DailyDungeonFinalyAwardProp"
@@ -14082,7 +14082,7 @@
     "name": "Philosopher's Stone",
     "rarity": "Mythic",
     "element": "Water",
-    "region": "",
+    "region": "Grand Treasure Hunt",
     "description": "+14%",
     "stats": [
       "Home Stone Yield Boost"
@@ -14127,7 +14127,7 @@
     "stats": [
       "Crit DMG"
     ],
-    "set": 60000,
+    "set": "Elysian Radiance",
     "set_bonus": [
       [
         "Crit Rate"
@@ -14394,7 +14394,7 @@
     "name": "Primal Forge",
     "rarity": "Mythic",
     "element": "Fire",
-    "region": "",
+    "region": "Chaos Invasion",
     "description": "+14%",
     "stats": [
       "Home Raw Ore Yield Boost"
@@ -14406,7 +14406,7 @@
     "name": "Primal Gem",
     "rarity": "Mythic",
     "element": "Light",
-    "region": "",
+    "region": "Grand Treasure Hunt",
     "description": "+1,400",
     "stats": [
       "Gem Drop Rate"
@@ -14425,7 +14425,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60000,
+    "set": "Elysian Radiance",
     "set_bonus": [
       [
         "Crit Rate"
@@ -16555,7 +16555,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60016,
+    "set": "The Wilds",
     "set_bonus": [
       [
         "Block Rate"
@@ -20664,7 +20664,7 @@
     "name": "Wand Charm",
     "rarity": "Legendary",
     "element": "Fire",
-    "region": "",
+    "region": "Stellaris",
     "description": "+5.8%",
     "stats": [
       "PvP Bonus DMG"
@@ -22319,7 +22319,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60016,
+    "set": "The Wilds",
     "set_bonus": [
       [
         "Block Rate"
@@ -22494,7 +22494,7 @@
     "name": "Blazing Dream Ball",
     "rarity": "Mythic",
     "element": "Fire",
-    "region": "",
+    "region": "Event",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -22566,7 +22566,7 @@
     "name": "Inspirational Poms",
     "rarity": "Mythic",
     "element": "Wind",
-    "region": "",
+    "region": "Event",
     "description": "+15%",
     "stats": [
       "HP"
