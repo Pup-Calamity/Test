@@ -84,7 +84,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+1.8%",
     "stats": [
       "DMG RES"
@@ -136,7 +136,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -162,7 +162,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -500,7 +500,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every 2 skill ascension (s) completed, +37",
     "stats": [
       "SPD"
@@ -526,7 +526,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -552,7 +552,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
@@ -630,7 +630,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Flamoenix"
@@ -760,7 +760,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
@@ -786,7 +786,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -812,12 +812,12 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "Crit RES"
     ],
-    "set": 60003,
+    "set": "Spring of Life's Flux",
     "set_bonus": [
       [
         "Block Rate"
@@ -890,7 +890,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3.6%",
     "stats": [
       "Crit RES"
@@ -916,7 +916,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Yamata no Orochi"
@@ -968,7 +968,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Block ×6 triggered in battle, +152",
     "stats": [
       "HP"
@@ -1006,7 +1006,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -1032,7 +1032,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
@@ -1084,7 +1084,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "Every time you spend Chrono Sand ×1500, +24.",
     "stats": [
       "SPD"
@@ -1110,7 +1110,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "Crit Rate"
@@ -1188,7 +1188,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -1266,7 +1266,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "VIII",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Boots ×1 dismantled, +228",
     "stats": [
       "HP"
@@ -1292,7 +1292,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -1318,7 +1318,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+21",
     "stats": [
       "SPD"
@@ -1396,7 +1396,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -1422,7 +1422,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -1448,12 +1448,12 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every 1 day(s) of joining the Crucible of Hieromon, +76",
     "stats": [
       "DEF"
     ],
-    "set": 60001,
+    "set": "Eternal Darkness",
     "set_bonus": [
       [
         "Crit RES"
@@ -1500,7 +1500,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+21",
     "stats": [
       "Elemental RES"
@@ -1630,7 +1630,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -1656,7 +1656,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+21",
     "stats": [
       "SPD"
@@ -1682,7 +1682,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+10",
     "stats": [
       "SPD"
@@ -1708,7 +1708,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -1734,7 +1734,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -1760,7 +1760,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3.6%",
     "stats": [
       "Block Rate"
@@ -1786,7 +1786,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every +3 of gear enhancement, +46",
     "stats": [
       "ATK"
@@ -1838,7 +1838,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "DEF"
@@ -1890,7 +1890,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -1916,7 +1916,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -1994,7 +1994,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Critical Hit ×6 received in battle, +24",
     "stats": [
       "SPD"
@@ -2098,12 +2098,12 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+15%",
     "stats": [
       "SPD"
     ],
-    "set": 60001,
+    "set": "Eternal Darkness",
     "set_bonus": [
       [
         "Crit RES"
@@ -2202,7 +2202,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -2280,7 +2280,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "HP"
@@ -2462,7 +2462,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -2592,7 +2592,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+21",
     "stats": [
       "Physical RES"
@@ -2696,7 +2696,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -2722,7 +2722,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -2826,7 +2826,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -2878,7 +2878,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+3.6%",
     "stats": [
       "Accuracy"
@@ -2930,7 +2930,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -2994,7 +2994,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+42",
     "stats": [
       "DEF"
@@ -3020,7 +3020,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -3046,7 +3046,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+9%",
     "stats": [
       "HP"
@@ -3098,7 +3098,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -3124,7 +3124,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+10",
     "stats": [
       "SPD"
@@ -3150,7 +3150,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+138",
     "stats": [
       "HP"
@@ -3176,7 +3176,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
@@ -3254,7 +3254,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+33",
     "stats": [
       "SPD"
@@ -3358,12 +3358,12 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+15%",
     "stats": [
       "HP"
     ],
-    "set": 60001,
+    "set": "Eternal Darkness",
     "set_bonus": [
       [
         "Crit RES"
@@ -3540,7 +3540,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Attack ×6 blocked by enemies in battle, +30",
     "stats": [
       "DEF"
@@ -3566,7 +3566,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+138",
     "stats": [
       "HP"
@@ -3644,7 +3644,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+21",
     "stats": [
       "SPD"
@@ -3670,7 +3670,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -3696,12 +3696,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "DEF"
     ],
-    "set": 68300,
+    "set": "Enlightened Light",
     "set_bonus": [
       [
         "Crit Rate"
@@ -3800,7 +3800,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every 4 exploration(s) completed, +46",
     "stats": [
       "ATK"
@@ -3852,7 +3852,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -3878,7 +3878,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "V",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every 1 day(s) of joining the Crucible of Hieromon, +46",
     "stats": [
       "ATK"
@@ -3930,7 +3930,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+10",
     "stats": [
       "SPD"
@@ -3956,7 +3956,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -4008,7 +4008,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
@@ -4086,7 +4086,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "Block Rate"
@@ -4138,7 +4138,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every +1 of weapon enhancement, +46",
     "stats": [
       "DEF"
@@ -4214,7 +4214,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "ATK"
@@ -4370,7 +4370,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "HP"
@@ -4396,7 +4396,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Block ×6 triggered in battle, +30",
     "stats": [
       "DEF"
@@ -4422,7 +4422,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every 1 Raw Ore mining(s), +30",
     "stats": [
       "ATK"
@@ -4448,7 +4448,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -4526,7 +4526,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+207",
     "stats": [
       "HP"
@@ -4578,12 +4578,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Ethereal Oracle",
     "description": "+3%",
     "stats": [
       "DMG Boost"
     ],
-    "set": 68301,
+    "set": "Nether Sovereign",
     "set_bonus": [
       [
         "Crit RES"
@@ -4604,7 +4604,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -4656,7 +4656,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -4706,7 +4706,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every 1 level(s) up for the highest skill quality, +381",
     "stats": [
       "HP"
@@ -4808,12 +4808,12 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every +1 of weapon enhancement, +61",
     "stats": [
       "SPD"
     ],
-    "set": 60001,
+    "set": "Eternal Darkness",
     "set_bonus": [
       [
         "Crit RES"
@@ -4860,12 +4860,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "SPD"
     ],
-    "set": 68300,
+    "set": "Enlightened Light",
     "set_bonus": [
       [
         "Crit Rate"
@@ -4964,7 +4964,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+15%",
     "stats": [
       "HP"
@@ -5042,7 +5042,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+69",
     "stats": [
       "HP"
@@ -5120,7 +5120,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every 1 Chrono Sand mining(s), +30",
     "stats": [
       "ATK"
@@ -5146,7 +5146,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -5198,12 +5198,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "Crit RES"
     ],
-    "set": 68301,
+    "set": "Nether Sovereign",
     "set_bonus": [
       [
         "Crit RES"
@@ -5302,7 +5302,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -5354,7 +5354,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Helmet ×2 dismantled, +381",
     "stats": [
       "HP"
@@ -5458,7 +5458,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
@@ -5484,7 +5484,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -5524,7 +5524,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every 1 day(s) of joining the Crucible of Hieromon, +76",
     "stats": [
       "DEF"
@@ -5550,12 +5550,12 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+15%",
     "stats": [
       "DEF"
     ],
-    "set": 60002,
+    "set": "Wind of Unchained Horizons",
     "set_bonus": [
       [
         "Block Rate"
@@ -5628,7 +5628,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "ATK"
@@ -5706,7 +5706,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+1.8%",
     "stats": [
       "DMG Boost"
@@ -5732,7 +5732,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Refined Ore ×15 consumed, +30",
     "stats": [
       "ATK"
@@ -5758,7 +5758,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -5784,7 +5784,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+10",
     "stats": [
       "SPD"
@@ -5810,7 +5810,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
@@ -5862,7 +5862,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -6044,7 +6044,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -6070,7 +6070,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -6122,7 +6122,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -6174,7 +6174,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -6226,7 +6226,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -6382,7 +6382,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -6408,7 +6408,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+138",
     "stats": [
       "HP"
@@ -6460,7 +6460,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Goddess Statue ×1 activated, +30",
     "stats": [
       "DEF"
@@ -6486,7 +6486,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "HP"
@@ -6564,7 +6564,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+69",
     "stats": [
       "HP"
@@ -6590,7 +6590,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -6668,7 +6668,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "DEF"
@@ -6694,7 +6694,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
@@ -6720,7 +6720,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -6850,7 +6850,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+21",
     "stats": [
       "Effect Hit Rate"
@@ -6876,7 +6876,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Minion ×20 defeated, +30",
     "stats": [
       "ATK"
@@ -6928,7 +6928,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Helmet ×1 dismantled, +228",
     "stats": [
       "HP"
@@ -7006,7 +7006,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+1.2%",
     "stats": [
       "DMG Boost"
@@ -7058,7 +7058,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -7084,7 +7084,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
@@ -7110,7 +7110,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+9%",
     "stats": [
       "HP"
@@ -7162,7 +7162,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+10",
     "stats": [
       "SPD"
@@ -7188,7 +7188,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -7370,7 +7370,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+21",
     "stats": [
       "SPD"
@@ -7396,7 +7396,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -7448,7 +7448,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every 1 Rolla mining(s), +30",
     "stats": [
       "ATK"
@@ -7526,7 +7526,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -7630,7 +7630,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -7682,7 +7682,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "ATK"
@@ -7734,7 +7734,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Portal ×1 activated, +30",
     "stats": [
       "DEF"
@@ -7864,12 +7864,12 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+6%",
     "stats": [
       "Block Rate"
     ],
-    "set": 60003,
+    "set": "Spring of Life's Flux",
     "set_bonus": [
       [
         "Block Rate"
@@ -7890,7 +7890,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+3.6%",
     "stats": [
       "Crit RES"
@@ -7942,7 +7942,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+1.2%",
     "stats": [
       "DMG RES"
@@ -8098,7 +8098,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+21",
     "stats": [
       "SPD"
@@ -8332,7 +8332,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Boss ×1 defeated, +30",
     "stats": [
       "DEF"
@@ -8358,7 +8358,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -8384,7 +8384,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+69",
     "stats": [
       "HP"
@@ -8410,7 +8410,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "ATK"
@@ -8436,7 +8436,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+10",
     "stats": [
       "SPD"
@@ -8462,7 +8462,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
@@ -8526,7 +8526,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -8590,7 +8590,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+207",
     "stats": [
       "HP"
@@ -8642,7 +8642,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Primordial Loong"
@@ -8694,7 +8694,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -8720,7 +8720,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
@@ -8746,7 +8746,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "SPD"
@@ -8772,7 +8772,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -8798,7 +8798,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+10",
     "stats": [
       "SPD"
@@ -8850,7 +8850,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "ATK"
@@ -9136,7 +9136,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Battle ×1 lost, +30",
     "stats": [
       "ATK"
@@ -9240,7 +9240,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -9292,7 +9292,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+55",
     "stats": [
       "SPD"
@@ -9344,7 +9344,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -9370,7 +9370,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Storm Griffin"
@@ -9408,7 +9408,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Battle ×1 lost, +30",
     "stats": [
       "DEF"
@@ -9590,7 +9590,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -9642,7 +9642,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
@@ -9694,7 +9694,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+21",
     "stats": [
       "Physical Mastery"
@@ -9798,7 +9798,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "SPD"
@@ -9876,7 +9876,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Map Building ×2 activated, +152",
     "stats": [
       "HP"
@@ -9902,7 +9902,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -9954,7 +9954,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "HP"
@@ -9980,7 +9980,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -10006,7 +10006,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+37",
     "stats": [
       "SPD"
@@ -10032,7 +10032,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -10058,12 +10058,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "HP"
     ],
-    "set": 68300,
+    "set": "Enlightened Light",
     "set_bonus": [
       [
         "Crit Rate"
@@ -10200,7 +10200,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "DEF"
@@ -10252,7 +10252,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -10278,7 +10278,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "DEF"
@@ -10304,7 +10304,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "DEF"
@@ -10330,7 +10330,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -10486,7 +10486,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -10512,7 +10512,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -10668,7 +10668,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "For every 4 exploration(s) completed, +381",
     "stats": [
       "HP"
@@ -10876,7 +10876,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+10",
     "stats": [
       "SPD"
@@ -10954,7 +10954,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+138",
     "stats": [
       "HP"
@@ -11084,12 +11084,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+346",
     "stats": [
       "HP"
     ],
-    "set": 60014,
+    "set": "Cosmic Forge",
     "set_bonus": [
       [
         "Accuracy"
@@ -11110,7 +11110,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3.6%",
     "stats": [
       "Block Rate"
@@ -11162,7 +11162,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -11188,7 +11188,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+21",
     "stats": [
       "SPD"
@@ -11226,7 +11226,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+138",
     "stats": [
       "HP"
@@ -11381,8 +11381,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Cinder Ridge",
-    "area": "",
-    "gacha": "",
+    "area": "Machina Trove",
+    "gacha": "Machina Trove",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -11408,7 +11408,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "II",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Weapon ×1 dismantled, +37",
     "stats": [
       "SPD"
@@ -11434,7 +11434,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "ATK"
@@ -11486,7 +11486,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "ATK"
@@ -11512,7 +11512,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+69",
     "stats": [
       "HP"
@@ -11538,7 +11538,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+10",
     "stats": [
       "SPD"
@@ -11564,12 +11564,12 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every 1 day(s) of joining the Crucible of Hieromon, +76",
     "stats": [
       "DEF"
     ],
-    "set": 60002,
+    "set": "Wind of Unchained Horizons",
     "set_bonus": [
       [
         "Block Rate"
@@ -11616,7 +11616,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -11720,7 +11720,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -11810,12 +11810,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Ethereal Oracle",
     "description": "+9%",
     "stats": [
       "Crit DMG"
     ],
-    "set": 68301,
+    "set": "Nether Sovereign",
     "set_bonus": [
       [
         "Crit RES"
@@ -11836,7 +11836,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
@@ -11862,7 +11862,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
@@ -11888,7 +11888,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+138",
     "stats": [
       "HP"
@@ -11914,7 +11914,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+21",
     "stats": [
       "Elemental Mastery"
@@ -11978,7 +11978,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every 1 Raw Ore mining(s), +152",
     "stats": [
       "HP"
@@ -12172,7 +12172,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "DEF"
@@ -12224,7 +12224,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -12250,7 +12250,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Block ×6 triggered in battle, +24",
     "stats": [
       "SPD"
@@ -12276,7 +12276,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -12328,7 +12328,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "ATK"
@@ -12510,7 +12510,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -12536,7 +12536,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3.6%",
     "stats": [
       "Accuracy"
@@ -12562,7 +12562,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Raw Ore ×200 consumed, +24",
     "stats": [
       "SPD"
@@ -12640,7 +12640,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -12692,7 +12692,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -12718,7 +12718,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "ATK"
@@ -12796,7 +12796,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+10",
     "stats": [
       "SPD"
@@ -12822,7 +12822,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -12848,7 +12848,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -12874,7 +12874,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Goddess Statue ×1 activated, +30",
     "stats": [
       "ATK"
@@ -12900,7 +12900,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -12966,7 +12966,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -13044,7 +13044,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Battle ×4 won, +228",
     "stats": [
       "HP"
@@ -13148,7 +13148,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -13174,7 +13174,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -13304,7 +13304,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
@@ -13330,12 +13330,12 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "Crit Rate"
     ],
-    "set": 60003,
+    "set": "Spring of Life's Flux",
     "set_bonus": [
       [
         "Block Rate"
@@ -13356,7 +13356,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13382,7 +13382,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Armor ×1 dismantled, +46",
     "stats": [
       "ATK"
@@ -13434,7 +13434,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "For every +3 of gear enhancement, +76",
     "stats": [
       "DEF"
@@ -13486,7 +13486,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -13512,7 +13512,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "XIII",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every +1 of boots enhancement, +46",
     "stats": [
       "DEF"
@@ -13538,7 +13538,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "Every time you spend Chrono Sand ×1500, +152.",
     "stats": [
       "HP"
@@ -13616,7 +13616,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+42",
     "stats": [
       "ATK"
@@ -13668,7 +13668,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+3.6%",
     "stats": [
       "Block Rate"
@@ -13746,7 +13746,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -13798,7 +13798,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+207",
     "stats": [
       "HP"
@@ -13824,7 +13824,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13850,7 +13850,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "DEF"
@@ -13902,7 +13902,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "ATK"
@@ -14032,7 +14032,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "SPD"
@@ -14058,7 +14058,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -14096,7 +14096,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "HP"
@@ -14122,7 +14122,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+9%",
     "stats": [
       "Crit DMG"
@@ -14148,7 +14148,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
@@ -14174,7 +14174,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Weapon ×1 dismantled, +228",
     "stats": [
       "HP"
@@ -14200,7 +14200,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "HP"
@@ -14304,7 +14304,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -14370,7 +14370,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "ATK"
@@ -14420,7 +14420,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Boots ×2 dismantled, +76",
     "stats": [
       "ATK"
@@ -14498,7 +14498,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -14550,7 +14550,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Raw Ore ×200 consumed, +24",
     "stats": [
       "SPD"
@@ -14706,7 +14706,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -14784,7 +14784,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every 1 Green Grains/Mushroom gathering(s), +30",
     "stats": [
       "DEF"
@@ -14836,7 +14836,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "HP"
@@ -14862,12 +14862,12 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+15%",
     "stats": [
       "SPD"
     ],
-    "set": 60014,
+    "set": "Cosmic Forge",
     "set_bonus": [
       [
         "Accuracy"
@@ -14888,7 +14888,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -14914,7 +14914,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Critical Hit ×6 triggered in battle, +30",
     "stats": [
       "ATK"
@@ -15056,7 +15056,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+10",
     "stats": [
       "SPD"
@@ -15212,7 +15212,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -15316,7 +15316,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -15342,7 +15342,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "DEF"
@@ -15472,7 +15472,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -15498,7 +15498,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
@@ -15550,7 +15550,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Refined Ore ×15 consumed, +30",
     "stats": [
       "ATK"
@@ -15654,7 +15654,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "ATK"
@@ -15680,7 +15680,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+42",
     "stats": [
       "DEF"
@@ -15706,7 +15706,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -15732,7 +15732,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -15784,7 +15784,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+69",
     "stats": [
       "HP"
@@ -15810,7 +15810,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every 40 Stamina consumed, +24",
     "stats": [
       "SPD"
@@ -15900,7 +15900,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every Treasure Chest ×2 opened, +30",
     "stats": [
       "DEF"
@@ -15926,7 +15926,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -15952,12 +15952,12 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every +1 of helmet enhancement, +76",
     "stats": [
       "DEF"
     ],
-    "set": 60003,
+    "set": "Spring of Life's Flux",
     "set_bonus": [
       [
         "Block Rate"
@@ -15978,12 +15978,12 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every 1 level(s) up for the highest skill quality, +381",
     "stats": [
       "HP"
     ],
-    "set": 60002,
+    "set": "Wind of Unchained Horizons",
     "set_bonus": [
       [
         "Block Rate"
@@ -16004,7 +16004,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every +1 of armor enhancement, +37",
     "stats": [
       "SPD"
@@ -16056,7 +16056,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -16108,7 +16108,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Weapon ×1 dismantled, +46",
     "stats": [
       "DEF"
@@ -16134,7 +16134,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -16160,7 +16160,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Minion ×20 defeated, +24",
     "stats": [
       "SPD"
@@ -16186,7 +16186,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "ATK"
@@ -16342,7 +16342,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "ATK"
@@ -16420,7 +16420,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -16550,7 +16550,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -16680,7 +16680,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -16810,7 +16810,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -16836,7 +16836,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+21",
     "stats": [
       "SPD"
@@ -16940,7 +16940,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+10",
     "stats": [
       "SPD"
@@ -16966,7 +16966,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -17018,7 +17018,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every 1 Dawnium picked up, +152",
     "stats": [
       "HP"
@@ -17070,7 +17070,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "DEF"
@@ -17096,7 +17096,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
@@ -17122,7 +17122,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -17200,7 +17200,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Armor ×1 dismantled, +228",
     "stats": [
       "HP"
@@ -17226,7 +17226,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -17278,7 +17278,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -17304,12 +17304,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "ATK"
     ],
-    "set": 68300,
+    "set": "Enlightened Light",
     "set_bonus": [
       [
         "Crit Rate"
@@ -17330,7 +17330,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every +1 of weapon enhancement, +61",
     "stats": [
       "SPD"
@@ -17668,7 +17668,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+1.8%",
     "stats": [
       "DMG Boost"
@@ -17746,7 +17746,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -17772,7 +17772,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Boots ×2 dismantled, +76",
     "stats": [
       "ATK"
@@ -17824,7 +17824,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every 1 Dawnium picked up, +30",
     "stats": [
       "DEF"
@@ -17850,7 +17850,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every Destiny Fruit ×2 gathered, +152",
     "stats": [
       "HP"
@@ -17954,7 +17954,7 @@
     "element": "Dark",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "For every 1 Raw Ore mining(s), +24",
     "stats": [
       "SPD"
@@ -17980,7 +17980,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "HP"
@@ -18084,7 +18084,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "DEF"
@@ -18110,7 +18110,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every 1 Raw Ore mining(s), +24",
     "stats": [
       "SPD"
@@ -18292,7 +18292,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
@@ -18344,7 +18344,7 @@
     "element": "Fire",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -18422,7 +18422,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
@@ -18564,7 +18564,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -18616,7 +18616,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "DEF"
@@ -18668,7 +18668,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every +1 of helmet enhancement, +46",
     "stats": [
       "ATK"
@@ -18720,7 +18720,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "ATK"
@@ -18798,12 +18798,12 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+15%",
     "stats": [
       "ATK"
     ],
-    "set": 60002,
+    "set": "Wind of Unchained Horizons",
     "set_bonus": [
       [
         "Block Rate"
@@ -18824,7 +18824,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -18980,12 +18980,12 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo TaLes",
     "description": "+15%",
     "stats": [
       "ATK"
     ],
-    "set": 60014,
+    "set": "Cosmic Forge",
     "set_bonus": [
       [
         "Accuracy"
@@ -19032,7 +19032,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -19058,7 +19058,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+14",
     "stats": [
       "ATK"
@@ -19110,7 +19110,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+15%",
     "stats": [
       "HP"
@@ -19174,12 +19174,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Ethereal Oracle",
     "description": "+3%",
     "stats": [
       "DMG RES"
     ],
-    "set": 68301,
+    "set": "Nether Sovereign",
     "set_bonus": [
       [
         "Crit RES"
@@ -19278,7 +19278,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3.6%",
     "stats": [
       "Accuracy"
@@ -19304,7 +19304,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Boots ×1 dismantled, +37",
     "stats": [
       "SPD"
@@ -19408,7 +19408,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+42",
     "stats": [
       "ATK"
@@ -19460,7 +19460,7 @@
     "element": "Light",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+1.8%",
     "stats": [
       "DMG RES"
@@ -19486,7 +19486,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+6%",
     "stats": [
       "HP"
@@ -19512,7 +19512,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Attack ×6 blocked by enemies in battle, +152",
     "stats": [
       "HP"
@@ -19564,7 +19564,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "ATK"
@@ -19616,7 +19616,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -19642,7 +19642,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "DEF"
@@ -19746,7 +19746,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -19798,7 +19798,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -19824,7 +19824,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Goddess Statue ×1 activated, +30",
     "stats": [
       "ATK"
@@ -19914,7 +19914,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+14",
     "stats": [
       "DEF"
@@ -19978,7 +19978,7 @@
     "element": "Fire",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+21",
     "stats": [
       "Effect RES"
@@ -20004,7 +20004,7 @@
     "element": "Dark",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every +1 of boots enhancement, +46",
     "stats": [
       "DEF"
@@ -20030,12 +20030,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "DEF"
     ],
-    "set": 60014,
+    "set": "Cosmic Forge",
     "set_bonus": [
       [
         "Accuracy"
@@ -20056,7 +20056,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -20108,7 +20108,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+42",
     "stats": [
       "ATK"
@@ -20134,7 +20134,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Daily Quest ×2 completed, +152",
     "stats": [
       "HP"
@@ -20160,7 +20160,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every 1 level(s) up for the highest skill quality, +46",
     "stats": [
       "DEF"
@@ -20742,7 +20742,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -20768,7 +20768,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -20820,7 +20820,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -20872,7 +20872,7 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+138",
     "stats": [
       "HP"
@@ -20898,7 +20898,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Destiny Fruit ×2 consumed, +24",
     "stats": [
       "SPD"
@@ -20924,7 +20924,7 @@
     "element": "Water",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+138",
     "stats": [
       "HP"
@@ -20950,7 +20950,7 @@
     "element": "Water",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -20976,7 +20976,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+14",
     "stats": [
       "ATK"
@@ -21106,7 +21106,7 @@
     "element": "Water",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "+10",
     "stats": [
       "SPD"
@@ -21158,7 +21158,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+14",
     "stats": [
       "DEF"
@@ -21236,7 +21236,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "ATK"
@@ -21288,7 +21288,7 @@
     "element": "Fire",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -21314,7 +21314,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+15%",
     "stats": [
       "HP"
@@ -21340,7 +21340,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Boots ×2 dismantled, +76",
     "stats": [
       "ATK"
@@ -21366,7 +21366,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+9%",
     "stats": [
       "HP"
@@ -21418,7 +21418,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -21600,7 +21600,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+10",
     "stats": [
       "SPD"
@@ -21652,7 +21652,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+69",
     "stats": [
       "HP"
@@ -21730,7 +21730,7 @@
     "element": "Wind",
     "region": "Cinder Ridge",
     "area": "",
-    "gacha": "",
+    "gacha": "Machina Trove",
     "description": "+21",
     "stats": [
       "SPD"
@@ -21808,7 +21808,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "Every time you spend Chrono Sand ×1500, +30.",
     "stats": [
       "DEF"
@@ -21834,7 +21834,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+42",
     "stats": [
       "DEF"
@@ -21886,7 +21886,7 @@
     "element": "Wind",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every Critical Hit ×6 received in battle, +152",
     "stats": [
       "HP"
@@ -21964,7 +21964,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "For every 1 Raw Ore mining(s), +152",
     "stats": [
       "HP"
@@ -22132,7 +22132,7 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+10",
     "stats": [
       "SPD"
@@ -22158,7 +22158,7 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+69",
     "stats": [
       "HP"
@@ -22262,7 +22262,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+69",
     "stats": [
       "HP"
@@ -22288,7 +22288,7 @@
     "element": "Light",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every +1 of weapon enhancement, +61",
     "stats": [
       "SPD"
@@ -22314,7 +22314,7 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -22340,7 +22340,7 @@
     "element": "Dark",
     "region": "Aqualis",
     "area": "",
-    "gacha": "",
+    "gacha": "Ukiyo Tales",
     "description": "For every 1 level(s) up for the highest skill quality, +381",
     "stats": [
       "HP"
@@ -22366,7 +22366,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+3.6%",
     "stats": [
       "Crit RES"
@@ -22418,7 +22418,7 @@
     "element": "Wind",
     "region": "Verdantglade",
     "area": "",
-    "gacha": "",
+    "gacha": "Sylvan Relics",
     "description": "+207",
     "stats": [
       "HP"
@@ -22470,7 +22470,7 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "",
+    "gacha": "Celestial Crafts",
     "description": "+15%",
     "stats": [
       "SPD"
