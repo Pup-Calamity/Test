@@ -241,7 +241,7 @@
           else if (item.rarity === 'Rare') rarityClass = 'bg-rare';
           
           let displayArea = item.area || item.Area || '';
-          let gachaDisplay = (item.gacha || item.Gatcha) ? '<span style="color:var(--purple); font-weight:bold;">[Gacha]</span>' : '';
+          let gachaDisplay = (item.gacha) ? '<span style="color:var(--purple); font-weight:bold;">[Gacha]</span>' : '';
 
           fullHtml += `
             <div class="relic-item ${rarityClass}" style="border-left: 4px solid ${borderColor}">
