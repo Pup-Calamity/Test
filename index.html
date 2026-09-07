@@ -124,7 +124,14 @@
 
     function populateFilters() {
       const regions = [...new Set(relics.map(r => r.region).filter(Boolean))].sort();
-      const stats = [...new Set(relics.flatMap(r => r.stats))].sort();
+      
+      // Combine item stats and set bonus stats into one master list
+      let allStats = [];
+      relics.forEach(r => {
+        if (r.stats) allStats.push(...r.stats);
+        if (r.set_bonus) r.set_bonus.forEach(b => allStats.push(...b));
+      });
+      const stats = [...new Set(allStats)].sort();
       
       const regionSelect = document.getElementById('filter-region');
       regions.forEach(r => regionSelect.innerHTML += `<option value="${r}">${r}</option>`);
@@ -176,9 +183,14 @@
       else setsArray.sort((a, b) => a.id - b.id);
 
       setsArray.forEach(set => {
+        // Check if the set itself provides the requested stat as a bonus
+        const flatBonuses = set.bonuses.flat();
+        const setHasBonusStat = !statFilter || flatBonuses.includes(statFilter);
+
         let filteredItems = set.items.filter(item => {
           const matchRegion = !regionFilter || item.region === regionFilter;
-          const matchStat = !statFilter || item.stats.includes(statFilter);
+          // Show the item if the SET has the bonus stat OR the item itself has the stat
+          const matchStat = setHasBonusStat || item.stats.includes(statFilter);
           return matchRegion && matchStat;
         });
 
