@@ -8595,7 +8595,7 @@
     "stats": [
       "HP"
     ],
-    "set": 68600,
+    "set": "Heaven's Ingenium",
     "set_bonus": [
       [
         "ATK"
