@@ -1169,11 +1169,12 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "VIII",
     "description": "For every Boots ×1 dismantled, +228",
     "stats": [
       "HP"
     ],
-    "set": 60200,
+    "set": Solar Embrace,
     "set_bonus": [
       [
         "HP"
@@ -3581,11 +3582,12 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "V",
     "description": "For every 1 day(s) of joining the Crucible of Hieromon, +46",
     "stats": [
       "ATK"
     ],
-    "set": 60200,
+    "set": Solar Embrace,
     "set_bonus": [
       [
         "HP"
@@ -4517,11 +4519,12 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "SPD"
     ],
-    "set": 68303,
+    "set": "Genesis Tide",
     "set_bonus": [
       [
         "Block Rate"
@@ -5629,15 +5632,16 @@
   },
   {
     "id": "treasure_71402",
-    "name": "Feathered Glaze",
+    "name": "Feathered Goblet",
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "HP"
     ],
-    "set": 68302,
+    "set": "Primal Gale",
     "set_bonus": [
       [
         "Block Rate"
@@ -9809,11 +9813,12 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "Crit RES"
     ],
-    "set": 68302,
+    "set": "Primal Gale",
     "set_bonus": [
       [
         "Block Rate"
@@ -10541,11 +10546,12 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "II",
     "description": "For every Weapon ×1 dismantled, +37",
     "stats": [
       "SPD"
     ],
-    "set": 60200,
+    "set": Solar Embrace,
     "set_bonus": [
       [
         "HP"
@@ -12485,11 +12491,12 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "XIII",
     "description": "For every +1 of boots enhancement, +46",
     "stats": [
       "DEF"
     ],
-    "set": 60200,
+    "set": Solar Embrace,
     "set_bonus": [
       [
         "HP"
@@ -13373,11 +13380,12 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "SPD"
     ],
-    "set": 68302,
+    "set": "Primal Gale",
     "set_bonus": [
       [
         "Block Rate"
@@ -13421,11 +13429,12 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+9%",
     "stats": [
       "Crit DMG"
     ],
-    "set": 68302,
+    "set": "Primal Gale",
     "set_bonus": [
       [
         "Block Rate"
@@ -15125,11 +15134,12 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "ATK"
     ],
-    "set": 68303,
+    "set": "Genesis Tide",
     "set_bonus": [
       [
         "Block Rate"
@@ -15317,11 +15327,12 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "Block Rate"
     ],
-    "set": 68304,
+    "set": "Cinder Cataclysm",
     "set_bonus": [
       [
         "Accuracy"
@@ -17513,11 +17524,12 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "HP"
     ],
-    "set": 68303,
+    "set": "Genesis Tide",
     "set_bonus": [
       [
         "Block Rate"
@@ -18337,15 +18349,16 @@
   },
   {
     "id": "treasure_71802",
-    "name": "Torch Dragon Cannon",
+    "name": "Torch Loong Cannon",
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "Accuracy"
     ],
-    "set": 68304,
+    "set": "Cinder Cataclysm",
     "set_bonus": [
       [
         "Accuracy"
@@ -18893,11 +18906,12 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "DEF"
     ],
-    "set": 68304,
+    "set": "Cinder Cataclysm",
     "set_bonus": [
       [
         "Accuracy"
@@ -19649,11 +19663,12 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "ATK"
     ],
-    "set": 68304,
+    "set": "Cinder Cataclysm",
     "set_bonus": [
       [
         "Accuracy"
@@ -20429,11 +20444,12 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
+    "gatcha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "DEF"
     ],
-    "set": 68303,
+    "set": "Genesis Tide",
     "set_bonus": [
       [
         "Block Rate"
