@@ -40,28 +40,32 @@
     .set-header { display: flex; justify-content: space-between; border-bottom: 1px solid var(--card-border); padding-bottom: 8px; }
     .set-bonuses { font-size: 0.85rem; background: var(--bg); padding: 8px; border-radius: 6px; }
     
+    /* Relic Item Base */
     .relic-item {
-      background: var(--bg); border: 1px solid var(--card-border);
+      border: 1px solid var(--card-border);
       padding: 10px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; gap: 8px;
     }
+    
+    /* Rarity Gradients */
+    .bg-mythic { background: radial-gradient(circle, rgba(234, 179, 8, 0.25) 0%, rgba(234, 179, 8, 0.05) 100%); }
+    .bg-legendary { background: radial-gradient(circle, rgba(249, 115, 22, 0.25) 0%, rgba(249, 115, 22, 0.05) 100%); }
+    .bg-epic { background: radial-gradient(circle, rgba(168, 85, 247, 0.25) 0%, rgba(168, 85, 247, 0.05) 100%); }
+    .bg-rare { background: radial-gradient(circle, rgba(59, 130, 246, 0.25) 0%, rgba(59, 130, 246, 0.05) 100%); }
+
     .relic-main-info {
       display: flex; align-items: center; gap: 12px; flex: 1; min-width: 0;
     }
     .relic-icon {
       width: 44px; height: 44px; border-radius: 6px; object-fit: contain;
-      background: #000; border: 1px solid var(--card-border);
+      background: #000; border: 1px solid rgba(255,255,255,0.1);
     }
     .relic-info { display: flex; flex-direction: column; gap: 4px; overflow: hidden; }
-    .relic-name { font-weight: bold; font-size: 0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-    .relic-meta { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .relic-name { font-weight: bold; font-size: 0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-shadow: 1px 1px 2px #000; }
+    .relic-meta { font-size: 0.75rem; color: #cbd5e1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
     
     .relic-actions { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
-    .relic-actions input[type="number"] {
-      width: 50px; background: var(--card-bg); color: var(--text); 
-      border: 1px solid var(--card-border); padding: 6px; border-radius: 4px; text-align: center;
-    }
     .relic-actions select {
-      background: var(--card-bg); color: var(--text); border: 1px solid var(--card-border); 
+      background: rgba(15, 23, 42, 0.8); color: var(--text); border: 1px solid var(--card-border); 
       padding: 6px; border-radius: 4px; outline: none; cursor: pointer; font-size: 0.85rem;
     }
   </style>
@@ -70,7 +74,7 @@
 
   <header>
     <h1>SwordXStaff Relic Tracker</h1>
-    <p>Track your sets and progress toward 3★ and Awakened bonuses.</p>
+    <p>Track your sets, stars, and progress toward Awakened bonuses.</p>
   </header>
 
   <div class="controls">
@@ -125,8 +129,6 @@
 
     function populateFilters() {
       const regions = [...new Set(relics.map(r => r.region).filter(Boolean))].sort();
-      
-      // Combine item stats and set bonus stats into one master list
       let allStats = [];
       relics.forEach(r => {
         if (r.stats) allStats.push(...r.stats);
@@ -142,7 +144,7 @@
     }
 
     window.saveUserProgress = function(id, field, value) {
-      if (!userData[id]) userData[id] = { stars: -1};
+      if (!userData[id]) userData[id] = { stars: -1 };
       if (field === 'stars') userData[id].stars = parseInt(value);
       
       localStorage.setItem('swordxstaff_relics', JSON.stringify(userData));
@@ -226,12 +228,19 @@
           const borderColor = userItem.stars >= 0 ? 'var(--green)' : 'var(--card-border)';
           const iconUrl = `https://lootandwaifus.com/treasures/swordxstaff/${item.icon}`;
 
+          // Map updated custom names to CSS gradient classes
+          let rarityClass = 'bg-rare'; // Default Fallback
+          if (item.rarity === 'Mythic') rarityClass = 'bg-mythic';
+          else if (item.rarity === 'Legendary') rarityClass = 'bg-legendary';
+          else if (item.rarity === 'Epic') rarityClass = 'bg-epic';
+          else if (item.rarity === 'Rare') rarityClass = 'bg-rare';
+
           cardHtml += `
-            <div class="relic-item" style="border-left: 4px solid ${borderColor}">
+            <div class="relic-item ${rarityClass}" style="border-left: 4px solid ${borderColor}">
               <div class="relic-main-info">
                 <img src="${iconUrl}" alt="${item.name}" class="relic-icon" loading="lazy" />
                 <div class="relic-info">
-                  <span class="relic-name">${item.name} <span style="color:var(--gold); font-size:0.7rem">[${item.rarity}]</span></span>
+                  <span class="relic-name">${item.name}</span>
                   <span class="relic-meta">${item.region || 'Unknown'} | ${(item.stats || []).join(', ')}</span>
                 </div>
               </div>
