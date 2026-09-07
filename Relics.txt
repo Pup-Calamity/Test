@@ -1011,7 +1011,7 @@
     "stats": [
       "Crit RES"
     ],
-    "set": 60010,
+    "set": "Omnipresent Light",
     "set_bonus": [
       [
         "Crit Rate"
@@ -1115,7 +1115,7 @@
     "stats": [
       "Crit Rate"
     ],
-    "set": 60015,
+    "set": "Primordial Dawn",
     "set_bonus": [
       [
         "Crit Rate"
@@ -1297,7 +1297,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60011,
+    "set": "Endless Cycle",
     "set_bonus": [
       [
         "Crit RES"
@@ -3103,7 +3103,7 @@
     "stats": [
       "DMG RES"
     ],
-    "set": 60010,
+    "set": "Omnipresent Light",
     "set_bonus": [
       [
         "Crit Rate"
@@ -4711,7 +4711,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60010,
+    "set": "Omnipresent Light",
     "set_bonus": [
       [
         "Crit Rate"
@@ -4969,7 +4969,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60004,
+    "set": "Pyre of Dooming World",
     "set_bonus": [
       [
         "Accuracy"
@@ -5359,7 +5359,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60013,
+    "set": "Solaris Tide",
     "set_bonus": [
       [
         "Accuracy"
@@ -5633,7 +5633,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60004,
+    "set": "Pyre of Dooming World",
     "set_bonus": [
       [
         "Accuracy"
@@ -6231,7 +6231,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60011,
+    "set": "Endless Cycle",
     "set_bonus": [
       [
         "Crit RES"
@@ -9297,7 +9297,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60004,
+    "set": "Pyre of Dooming World",
     "set_bonus": [
       [
         "Accuracy"
@@ -9907,7 +9907,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60004,
+    "set": "Pyre of Dooming World",
     "set_bonus": [
       [
         "Accuracy"
@@ -10673,7 +10673,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60013,
+    "set": "Solaris Tide",
     "set_bonus": [
       [
         "Accuracy"
@@ -11621,7 +11621,7 @@
     "stats": [
       "Accuracy"
     ],
-    "set": 60013,
+    "set": "Solaris Tide",
     "set_bonus": [
       [
         "Accuracy"
@@ -13439,7 +13439,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60013,
+    "set": "Solaris Tide",
     "set_bonus": [
       [
         "Accuracy"
@@ -14503,7 +14503,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60015,
+    "set": "Primordial Dawn",
     "set_bonus": [
       [
         "Crit Rate"
@@ -17231,7 +17231,7 @@
     "stats": [
       "DMG Boost"
     ],
-    "set": 60015,
+    "set": "Primordial Dawn",
     "set_bonus": [
       [
         "Crit Rate"
@@ -17335,7 +17335,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60012,
+    "set": "Zepher Ascendant",
     "set_bonus": [
       [
         "Block Rate"
@@ -17777,7 +17777,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60011,
+    "set": "Endless Cycle",
     "set_bonus": [
       [
         "Crit RES"
@@ -19115,7 +19115,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60015,
+    "set": "Primordial Dawn",
     "set_bonus": [
       [
         "Crit Rate"
@@ -21319,7 +21319,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60012,
+    "set": "Zepher Ascendant",
     "set_bonus": [
       [
         "Block Rate"
@@ -21345,7 +21345,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60012,
+    "set": "Zepher Ascendant",
     "set_bonus": [
       [
         "Block Rate"
@@ -22293,7 +22293,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60010,
+    "set": "Omnipresent Light",
     "set_bonus": [
       [
         "Crit Rate"
@@ -22345,7 +22345,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60011,
+    "set": "Endless Cycle",
     "set_bonus": [
       [
         "Crit RES"
@@ -22475,7 +22475,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60012,
+    "set": "Zepher Ascendant",
     "set_bonus": [
       [
         "Block Rate"
