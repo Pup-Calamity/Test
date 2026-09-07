@@ -14,6 +14,7 @@
       --accent: #38bdf8;
       --gold: #fbbf24;
       --green: #22c55e;
+      --purple: #a855f7;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, sans-serif; }
     body { background-color: var(--bg); color: var(--text); padding: 24px; }
@@ -76,6 +77,7 @@
   </header>
 
   <div class="controls">
+    <input type="text" id="search-input" placeholder="Search Set or Relic Name..." />
     <select id="filter-region"><option value="">All Regions</option></select>
     <select id="filter-stat"><option value="">All Stats</option></select>
     <select id="sort-by">
@@ -151,6 +153,7 @@
 
     function renderGrid() {
       const grid = document.getElementById('grid');
+      const searchFilter = document.getElementById('search-input').value.toLowerCase().trim();
       const regionFilter = document.getElementById('filter-region').value;
       const statFilter = document.getElementById('filter-stat').value;
       const sortBy = document.getElementById('sort-by').value;
@@ -181,17 +184,23 @@
       if (sortBy === 'progress') setsArray.sort((a, b) => b.progress - a.progress);
       else setsArray.sort((a, b) => a.id === 'Standalone' ? 1 : b.id === 'Standalone' ? -1 : a.id - b.id);
 
-      // Accumulate all HTML in memory before updating the DOM
       let fullHtml = '';
 
       setsArray.forEach(set => {
         const flatBonuses = set.bonuses.flat();
         const setHasBonusStat = !statFilter || flatBonuses.includes(statFilter);
+        let setTitle = set.id === 'Standalone' ? 'Standalone Relics' : `${set.id}`;
 
         let filteredItems = set.items.filter(item => {
           const matchRegion = !regionFilter || item.region === regionFilter;
           const matchStat = setHasBonusStat || (item.stats && item.stats.includes(statFilter));
-          return matchRegion && matchStat;
+          
+          // Check if search matches the Set ID/Name OR the specific Relic Name
+          const matchSearch = !searchFilter || 
+                              setTitle.toLowerCase().includes(searchFilter) || 
+                              item.name.toLowerCase().includes(searchFilter);
+
+          return matchRegion && matchStat && matchSearch;
         });
 
         if (filteredItems.length === 0) return;
@@ -207,8 +216,6 @@
             return `<span style="color: ${color}; font-weight: ${isActive ? 'bold' : 'normal'}">${label}: ${b[0]}</span>`;
           }).join(' | ');
         }
-
-        let setTitle = set.id === 'Standalone' ? 'Standalone Relics' : `${set.id}`;
 
         fullHtml += `
           <div class="set-card">
@@ -232,6 +239,9 @@
           else if (item.rarity === 'Legendary') rarityClass = 'bg-legendary';
           else if (item.rarity === 'Epic') rarityClass = 'bg-epic';
           else if (item.rarity === 'Rare') rarityClass = 'bg-rare';
+          
+          let displayArea = item.area || item.Area || '';
+          let gachaDisplay = (item.gacha || item.Gatcha) ? '<span style="color:var(--purple); font-weight:bold;">[Gacha]</span>' : '';
 
           fullHtml += `
             <div class="relic-item ${rarityClass}" style="border-left: 4px solid ${borderColor}">
@@ -239,9 +249,9 @@
                 <img src="${iconUrl}" alt="${item.name}" class="relic-icon" loading="lazy" />
                 <div class="relic-info">
                   <span class="relic-name">${item.name}</span>
-                  <span class="relic-meta">${item.element} | ${(item.stats || []).join(', ')}</span>
-                  <span class="relic-meta">${item.region || 'Unknown'} ${item.area || [].join(', ')}</span>
-                  <span class="relic-meta"> ${item.gacha}</span>
+                  <span class="relic-meta">${item.element || 'Unknown Element'} | ${(item.stats || []).join(', ')}</span>
+                  <span class="relic-meta">${item.region || 'Unknown Region'} ${displayArea ? `| ${displayArea}` : '- Gacha Only'}</span>
+                  ${gachaDisplay ? `<span class="relic-meta">${gachaDisplay}</span>` : ''}
                 </div>
               </div>
               <div class="relic-actions">
@@ -262,10 +272,10 @@
         fullHtml += `</div></div>`;
       });
 
-      // Inject the combined string exactly once
       grid.innerHTML = fullHtml;
     }
 
+    document.getElementById('search-input').addEventListener('input', renderGrid);
     document.getElementById('filter-region').addEventListener('change', renderGrid);
     document.getElementById('filter-stat').addEventListener('change', renderGrid);
     document.getElementById('sort-by').addEventListener('change', renderGrid);
