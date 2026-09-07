@@ -40,13 +40,11 @@
     .set-header { display: flex; justify-content: space-between; border-bottom: 1px solid var(--card-border); padding-bottom: 8px; }
     .set-bonuses { font-size: 0.85rem; background: var(--bg); padding: 8px; border-radius: 6px; }
     
-    /* Relic Item Base */
     .relic-item {
       border: 1px solid var(--card-border);
       padding: 10px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; gap: 8px;
     }
     
-    /* Rarity Gradients */
     .bg-mythic { background: radial-gradient(circle, rgba(234, 179, 8, 0.25) 0%, rgba(234, 179, 8, 0.05) 100%); }
     .bg-legendary { background: radial-gradient(circle, rgba(249, 115, 22, 0.25) 0%, rgba(249, 115, 22, 0.05) 100%); }
     .bg-epic { background: radial-gradient(circle, rgba(168, 85, 247, 0.25) 0%, rgba(168, 85, 247, 0.05) 100%); }
@@ -153,8 +151,6 @@
 
     function renderGrid() {
       const grid = document.getElementById('grid');
-      grid.innerHTML = '';
-      
       const regionFilter = document.getElementById('filter-region').value;
       const statFilter = document.getElementById('filter-stat').value;
       const sortBy = document.getElementById('sort-by').value;
@@ -185,6 +181,9 @@
       if (sortBy === 'progress') setsArray.sort((a, b) => b.progress - a.progress);
       else setsArray.sort((a, b) => a.id === 'Standalone' ? 1 : b.id === 'Standalone' ? -1 : a.id - b.id);
 
+      // Accumulate all HTML in memory before updating the DOM
+      let fullHtml = '';
+
       setsArray.forEach(set => {
         const flatBonuses = set.bonuses.flat();
         const setHasBonusStat = !statFilter || flatBonuses.includes(statFilter);
@@ -211,7 +210,7 @@
 
         let setTitle = set.id === 'Standalone' ? 'Standalone Relics' : `Set ${set.id}`;
 
-        let cardHtml = `
+        fullHtml += `
           <div class="set-card">
             <div class="set-header">
               <h3>${setTitle}</h3>
@@ -228,14 +227,13 @@
           const borderColor = userItem.stars >= 0 ? 'var(--green)' : 'var(--card-border)';
           const iconUrl = `https://lootandwaifus.com/treasures/swordxstaff/${item.icon}`;
 
-          // Map updated custom names to CSS gradient classes
-          let rarityClass = 'bg-rare'; // Default Fallback
+          let rarityClass = 'bg-rare';
           if (item.rarity === 'Mythic') rarityClass = 'bg-mythic';
           else if (item.rarity === 'Legendary') rarityClass = 'bg-legendary';
           else if (item.rarity === 'Epic') rarityClass = 'bg-epic';
           else if (item.rarity === 'Rare') rarityClass = 'bg-rare';
 
-          cardHtml += `
+          fullHtml += `
             <div class="relic-item ${rarityClass}" style="border-left: 4px solid ${borderColor}">
               <div class="relic-main-info">
                 <img src="${iconUrl}" alt="${item.name}" class="relic-icon" loading="lazy" />
@@ -259,9 +257,11 @@
           `;
         });
 
-        cardHtml += `</div></div>`;
-        grid.innerHTML += cardHtml;
+        fullHtml += `</div></div>`;
       });
+
+      // Inject the combined string exactly once
+      grid.innerHTML = fullHtml;
     }
 
     document.getElementById('filter-region').addEventListener('change', renderGrid);
