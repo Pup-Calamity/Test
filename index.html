@@ -239,9 +239,9 @@
                 <img src="${iconUrl}" alt="${item.name}" class="relic-icon" loading="lazy" />
                 <div class="relic-info">
                   <span class="relic-name">${item.name}</span>
-                  <span class="relic-meta">${(item.stats || []).join(', ')}</span>
+                  <span class="relic-meta">${item.element} | ${(item.stats || []).join(', ')}</span>
                   <span class="relic-meta">${item.region || 'Unknown'} ${item.area || [].join(', ')}</span>
-                  <span class="relic-meta">${item.gacha}</span>
+                  <span class="relic-meta"> gacha: ${item.gacha}</span>
                 </div>
               </div>
               <div class="relic-actions">
