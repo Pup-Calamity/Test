@@ -86,12 +86,7 @@
 
   <div class="grid" id="grid"></div>
 
-  <script>
-    .catch(err => {
-        console.error(err);
-        document.getElementById('grid').innerHTML = `<p style="color:red; grid-column: 1 / -1; text-align: center;"><b>Crash Report:</b> ${err.message} <br><br> Press F12 and check the Console tab for the exact line number.</p>`;
-      });
-    
+  <script>    
     let relics = [];
     let setsData = {};
     let userData = JSON.parse(localStorage.getItem('swordxstaff_relics')) || {};
