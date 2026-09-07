@@ -629,13 +629,13 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": " ",
     "gacha": "",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Flamoenix"
     ],
-    "set": "Four Kingdom's Resolve",
+    "set": " Kingdom's Resolve",
     "set_bonus": [
       [
         "DEF"
@@ -915,13 +915,13 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aqualis",
-    "area": "",
+    "area": " ",
     "gacha": "",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Yamata no Orochi"
     ],
-    "set": "Four Kingdom's Resolve",
+    "set": " Kingdom's Resolve",
     "set_bonus": [
       [
         "DEF"
@@ -8641,13 +8641,13 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
-    "area": "",
+    "area": " ",
     "gacha": "",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Primordial Loong"
     ],
-    "set": "Four Kingdom's Resolve",
+    "set": " Kingdom's Resolve",
     "set_bonus": [
       [
         "DEF"
@@ -9369,7 +9369,7 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Verdantglade",
-    "area": "",
+    "area": " ",
     "gacha": "",
     "description": "+1,800",
     "stats": [
