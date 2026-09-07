@@ -5,6 +5,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -29,6 +31,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -53,6 +57,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -77,6 +83,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG RES"
@@ -101,6 +109,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Block Rate"
@@ -125,6 +135,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -149,6 +161,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -173,6 +187,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -197,6 +213,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -221,6 +239,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -245,6 +265,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -269,6 +291,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -293,6 +317,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG Boost"
@@ -317,6 +343,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -341,6 +369,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -365,6 +395,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -389,6 +421,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -413,6 +447,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -437,6 +473,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -461,6 +499,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every 2 skill ascension (s) completed, +37",
     "stats": [
       "SPD"
@@ -485,6 +525,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -509,6 +551,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -533,6 +577,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -557,6 +603,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -581,6 +629,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Flamoenix"
@@ -605,6 +655,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -629,6 +681,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -653,6 +707,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -677,6 +733,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -701,6 +759,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -725,6 +785,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -749,6 +811,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -773,6 +837,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -797,6 +863,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -821,6 +889,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit RES"
@@ -845,6 +915,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Yamata no Orochi"
@@ -869,6 +941,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -893,6 +967,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every Block ×6 triggered in battle, +152",
     "stats": [
       "HP"
@@ -929,6 +1005,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -953,6 +1031,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -977,6 +1057,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -1001,6 +1083,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "Every time you spend Chrono Sand ×1500, +24.",
     "stats": [
       "SPD"
@@ -1025,6 +1109,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit Rate"
@@ -1049,6 +1135,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -1073,6 +1161,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit Rate"
@@ -1097,6 +1187,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -1121,6 +1213,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -1145,6 +1239,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -1170,6 +1266,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "VIII",
+    "gacha": "",
     "description": "For every Boots ×1 dismantled, +228",
     "stats": [
       "HP"
@@ -1194,6 +1291,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -1218,6 +1317,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -1242,6 +1343,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -1266,6 +1369,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -1290,6 +1395,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -1314,6 +1421,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -1338,6 +1447,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 day(s) of joining the Crucible of Hieromon, +76",
     "stats": [
       "DEF"
@@ -1362,6 +1473,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -1386,6 +1499,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Elemental RES"
@@ -1410,6 +1525,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -1434,6 +1551,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -1458,6 +1577,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -1482,6 +1603,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -1506,6 +1629,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -1530,6 +1655,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -1554,6 +1681,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -1578,6 +1707,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -1602,6 +1733,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -1626,6 +1759,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Block Rate"
@@ -1650,6 +1785,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every +3 of gear enhancement, +46",
     "stats": [
       "ATK"
@@ -1674,6 +1811,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -1698,6 +1837,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -1722,6 +1863,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -1746,6 +1889,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -1770,6 +1915,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -1794,6 +1941,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -1818,6 +1967,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -1842,6 +1993,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every Critical Hit ×6 received in battle, +24",
     "stats": [
       "SPD"
@@ -1866,6 +2019,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -1890,6 +2045,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -1914,6 +2071,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "Block Efficiency"
@@ -1938,6 +2097,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -1962,6 +2123,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -1986,6 +2149,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -2010,6 +2175,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -2034,6 +2201,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -2058,6 +2227,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -2082,6 +2253,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit Rate"
@@ -2106,6 +2279,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "HP"
@@ -2130,6 +2305,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -2154,6 +2331,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Elemental Mastery"
@@ -2178,6 +2357,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -2202,6 +2383,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+1.2%",
     "stats": [
       "DMG RES"
@@ -2226,6 +2409,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -2250,6 +2435,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "HP"
@@ -2274,6 +2461,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -2298,6 +2487,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -2322,6 +2513,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -2346,6 +2539,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -2370,6 +2565,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -2394,6 +2591,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Physical RES"
@@ -2418,6 +2617,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -2442,6 +2643,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -2466,6 +2669,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -2490,6 +2695,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -2514,6 +2721,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -2538,6 +2747,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -2562,6 +2773,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -2586,6 +2799,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -2610,6 +2825,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -2634,6 +2851,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -2658,6 +2877,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Accuracy"
@@ -2682,6 +2903,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -2706,6 +2929,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -2730,6 +2955,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -2766,6 +2993,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -2790,6 +3019,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -2814,6 +3045,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "HP"
@@ -2838,6 +3071,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+1.2%",
     "stats": [
       "DMG Boost"
@@ -2862,6 +3097,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -2886,6 +3123,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -2910,6 +3149,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -2934,6 +3175,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -2958,6 +3201,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -2982,6 +3227,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -3006,6 +3253,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -3030,6 +3279,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -3054,6 +3305,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -3078,6 +3331,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Physical RES"
@@ -3102,6 +3357,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "HP"
@@ -3126,6 +3383,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -3150,6 +3409,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -3174,6 +3435,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -3198,6 +3461,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -3222,6 +3487,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -3246,6 +3513,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -3270,6 +3539,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every Attack ×6 blocked by enemies in battle, +30",
     "stats": [
       "DEF"
@@ -3294,6 +3565,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -3318,6 +3591,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -3342,6 +3617,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit Rate"
@@ -3366,6 +3643,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -3390,6 +3669,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -3414,6 +3695,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -3438,6 +3721,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -3462,6 +3747,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -3486,6 +3773,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -3510,6 +3799,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every 4 exploration(s) completed, +46",
     "stats": [
       "ATK"
@@ -3534,6 +3825,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -3558,6 +3851,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -3583,6 +3878,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "V",
+    "gacha": "",
     "description": "For every 1 day(s) of joining the Crucible of Hieromon, +46",
     "stats": [
       "ATK"
@@ -3607,6 +3903,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG Boost"
@@ -3631,6 +3929,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -3655,6 +3955,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -3679,6 +3981,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -3703,6 +4007,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -3727,6 +4033,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -3751,6 +4059,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -3775,6 +4085,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Block Rate"
@@ -3799,6 +4111,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit Rate"
@@ -3823,6 +4137,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every +1 of weapon enhancement, +46",
     "stats": [
       "DEF"
@@ -3847,6 +4163,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -3895,6 +4213,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -3919,6 +4239,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -3943,6 +4265,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -3967,6 +4291,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -3991,6 +4317,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit RES"
@@ -4015,6 +4343,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -4039,6 +4369,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "HP"
@@ -4063,6 +4395,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Block ×6 triggered in battle, +30",
     "stats": [
       "DEF"
@@ -4087,6 +4421,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Raw Ore mining(s), +30",
     "stats": [
       "ATK"
@@ -4111,6 +4447,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -4135,6 +4473,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -4159,6 +4499,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Block Rate"
@@ -4183,6 +4525,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -4207,6 +4551,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -4231,6 +4577,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -4255,6 +4603,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -4279,6 +4629,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -4303,6 +4655,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -4351,6 +4705,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 level(s) up for the highest skill quality, +381",
     "stats": [
       "HP"
@@ -4399,6 +4755,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -4423,6 +4781,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -4447,6 +4807,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every +1 of weapon enhancement, +61",
     "stats": [
       "SPD"
@@ -4471,6 +4833,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -4495,6 +4859,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -4519,7 +4885,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -4544,6 +4911,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -4568,6 +4937,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -4592,6 +4963,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "HP"
@@ -4616,6 +4989,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -4640,6 +5015,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -4664,6 +5041,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -4688,6 +5067,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -4712,6 +5093,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -4736,6 +5119,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Chrono Sand mining(s), +30",
     "stats": [
       "ATK"
@@ -4760,6 +5145,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -4784,6 +5171,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -4808,6 +5197,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -4832,6 +5223,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -4856,6 +5249,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -4880,6 +5275,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -4904,6 +5301,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -4928,6 +5327,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Effect RES"
@@ -4952,6 +5353,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Helmet ×2 dismantled, +381",
     "stats": [
       "HP"
@@ -4976,6 +5379,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit Rate"
@@ -5000,6 +5405,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -5024,6 +5431,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -5048,6 +5457,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -5072,6 +5483,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -5084,6 +5497,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Elemental RES"
@@ -5108,6 +5523,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 day(s) of joining the Crucible of Hieromon, +76",
     "stats": [
       "DEF"
@@ -5132,6 +5549,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -5156,6 +5575,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -5180,6 +5601,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -5204,6 +5627,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -5228,6 +5653,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -5252,6 +5679,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -5276,6 +5705,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG Boost"
@@ -5300,6 +5731,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every Refined Ore ×15 consumed, +30",
     "stats": [
       "ATK"
@@ -5324,6 +5757,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -5348,6 +5783,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -5372,6 +5809,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -5396,6 +5835,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -5420,6 +5861,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -5444,6 +5887,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -5468,6 +5913,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -5492,6 +5939,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -5516,6 +5965,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -5540,6 +5991,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit RES"
@@ -5564,6 +6017,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Block Rate"
@@ -5588,6 +6043,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -5612,6 +6069,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -5636,7 +6095,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "HP"
@@ -5661,6 +6121,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -5685,6 +6147,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -5709,6 +6173,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -5733,6 +6199,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -5757,6 +6225,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -5781,6 +6251,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -5805,6 +6277,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -5829,6 +6303,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG Boost"
@@ -5853,6 +6329,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -5877,6 +6355,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Effect Hit Rate"
@@ -5901,6 +6381,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -5925,6 +6407,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -5949,6 +6433,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -5973,6 +6459,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Goddess Statue ×1 activated, +30",
     "stats": [
       "DEF"
@@ -5997,6 +6485,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "HP"
@@ -6021,6 +6511,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -6045,6 +6537,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -6069,6 +6563,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -6093,6 +6589,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -6117,6 +6615,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "Block Efficiency"
@@ -6141,6 +6641,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -6165,6 +6667,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -6189,6 +6693,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -6213,6 +6719,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -6237,6 +6745,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -6261,6 +6771,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -6285,6 +6797,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -6309,6 +6823,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -6333,6 +6849,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Effect Hit Rate"
@@ -6357,6 +6875,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Minion ×20 defeated, +30",
     "stats": [
       "ATK"
@@ -6381,6 +6901,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -6405,6 +6927,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Helmet ×1 dismantled, +228",
     "stats": [
       "HP"
@@ -6429,6 +6953,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -6453,6 +6979,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -6477,6 +7005,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+1.2%",
     "stats": [
       "DMG Boost"
@@ -6501,6 +7031,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Elemental RES"
@@ -6525,6 +7057,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -6549,6 +7083,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -6573,6 +7109,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "HP"
@@ -6597,6 +7135,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "HP"
@@ -6621,6 +7161,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -6645,6 +7187,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -6669,6 +7213,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -6693,6 +7239,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -6717,6 +7265,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -6741,6 +7291,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -6765,6 +7317,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -6789,6 +7343,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -6813,6 +7369,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -6837,6 +7395,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -6861,6 +7421,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -6885,6 +7447,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Rolla mining(s), +30",
     "stats": [
       "ATK"
@@ -6909,6 +7473,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -6933,6 +7499,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -6957,6 +7525,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -6981,6 +7551,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -7005,6 +7577,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -7029,6 +7603,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -7053,6 +7629,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -7077,6 +7655,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -7101,6 +7681,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -7125,6 +7707,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -7149,6 +7733,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Portal ×1 activated, +30",
     "stats": [
       "DEF"
@@ -7173,6 +7759,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -7197,6 +7785,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -7221,6 +7811,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -7245,6 +7837,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -7269,6 +7863,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Block Rate"
@@ -7293,6 +7889,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit RES"
@@ -7317,6 +7915,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -7341,6 +7941,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+1.2%",
     "stats": [
       "DMG RES"
@@ -7365,6 +7967,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -7389,6 +7993,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -7413,6 +8019,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -7437,6 +8045,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -7461,6 +8071,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -7485,6 +8097,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -7509,6 +8123,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "HP"
@@ -7533,6 +8149,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -7557,6 +8175,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -7581,6 +8201,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -7605,6 +8227,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -7629,6 +8253,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -7653,6 +8279,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -7677,6 +8305,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -7701,6 +8331,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Boss ×1 defeated, +30",
     "stats": [
       "DEF"
@@ -7725,6 +8357,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -7749,6 +8383,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -7773,6 +8409,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -7797,6 +8435,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -7821,6 +8461,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -7845,6 +8487,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit Rate"
@@ -7881,6 +8525,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -7905,6 +8551,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -7941,6 +8589,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -7965,6 +8615,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -7989,6 +8641,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Primordial Loong"
@@ -8013,6 +8667,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -8037,6 +8693,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -8061,6 +8719,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -8085,6 +8745,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -8109,6 +8771,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -8133,6 +8797,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -8157,6 +8823,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -8181,6 +8849,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -8205,6 +8875,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -8229,6 +8901,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -8253,6 +8927,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -8277,6 +8953,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -8301,6 +8979,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -8325,6 +9005,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -8349,6 +9031,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -8373,6 +9057,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -8397,6 +9083,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -8421,6 +9109,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -8445,6 +9135,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Battle ×1 lost, +30",
     "stats": [
       "ATK"
@@ -8469,6 +9161,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -8493,6 +9187,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "Crit DMG"
@@ -8517,6 +9213,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -8541,6 +9239,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -8565,6 +9265,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -8589,6 +9291,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -8613,6 +9317,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -8637,6 +9343,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -8661,6 +9369,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+1,800",
     "stats": [
       "Bonus DMG against Storm Griffin"
@@ -8697,6 +9407,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Battle ×1 lost, +30",
     "stats": [
       "DEF"
@@ -8721,6 +9433,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -8745,6 +9459,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -8769,6 +9485,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -8793,6 +9511,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -8817,6 +9537,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -8841,6 +9563,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -8865,6 +9589,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -8889,6 +9615,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -8913,6 +9641,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -8937,6 +9667,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -8961,6 +9693,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Physical Mastery"
@@ -8985,6 +9719,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -9009,6 +9745,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -9033,6 +9771,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -9057,6 +9797,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -9081,6 +9823,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -9105,6 +9849,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -9129,6 +9875,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every Map Building ×2 activated, +152",
     "stats": [
       "HP"
@@ -9153,6 +9901,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -9177,6 +9927,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -9201,6 +9953,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "HP"
@@ -9225,6 +9979,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -9249,6 +10005,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+37",
     "stats": [
       "SPD"
@@ -9273,6 +10031,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -9297,6 +10057,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "HP"
@@ -9321,6 +10083,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -9345,6 +10109,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "HP"
@@ -9369,6 +10135,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -9405,6 +10173,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -9429,6 +10199,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -9453,6 +10225,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "HP"
@@ -9477,6 +10251,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -9501,6 +10277,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -9525,6 +10303,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -9549,6 +10329,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -9573,6 +10355,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "HP"
@@ -9597,6 +10381,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -9621,6 +10407,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -9645,6 +10433,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -9669,6 +10459,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -9693,6 +10485,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -9717,6 +10511,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -9741,6 +10537,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -9765,6 +10563,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -9789,6 +10589,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -9813,7 +10615,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -9838,6 +10641,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -9862,6 +10667,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "For every 4 exploration(s) completed, +381",
     "stats": [
       "HP"
@@ -9886,6 +10693,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -9910,6 +10719,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -9934,6 +10745,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -9958,6 +10771,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -9982,6 +10797,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG RES"
@@ -10006,6 +10823,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -10030,6 +10849,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -10054,6 +10875,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -10078,6 +10901,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -10102,6 +10927,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -10126,6 +10953,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -10150,6 +10979,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -10174,6 +11005,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -10198,6 +11031,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+1.2%",
     "stats": [
       "DMG Boost"
@@ -10222,6 +11057,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -10246,6 +11083,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -10270,6 +11109,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Block Rate"
@@ -10294,6 +11135,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -10318,6 +11161,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -10342,6 +11187,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -10378,6 +11225,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -10402,6 +11251,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -10426,6 +11277,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -10450,6 +11303,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -10474,6 +11329,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -10498,6 +11355,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -10522,6 +11381,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -10547,6 +11408,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "II",
+    "gacha": "",
     "description": "For every Weapon ×1 dismantled, +37",
     "stats": [
       "SPD"
@@ -10571,6 +11433,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -10595,6 +11459,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -10619,6 +11485,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -10643,6 +11511,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -10667,6 +11537,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -10691,6 +11563,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 day(s) of joining the Crucible of Hieromon, +76",
     "stats": [
       "DEF"
@@ -10715,6 +11589,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Accuracy"
@@ -10739,6 +11615,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -10763,6 +11641,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -10787,6 +11667,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -10811,6 +11693,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -10835,6 +11719,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -10871,6 +11757,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -10895,6 +11783,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -10919,6 +11809,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "Crit DMG"
@@ -10943,6 +11835,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -10967,6 +11861,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -10991,6 +11887,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -11015,6 +11913,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Elemental Mastery"
@@ -11039,6 +11939,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -11075,6 +11977,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Raw Ore mining(s), +152",
     "stats": [
       "HP"
@@ -11099,6 +12003,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -11135,6 +12041,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -11159,6 +12067,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -11183,6 +12093,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -11207,6 +12119,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -11231,6 +12145,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -11255,6 +12171,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -11279,6 +12197,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -11303,6 +12223,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -11327,6 +12249,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Block ×6 triggered in battle, +24",
     "stats": [
       "SPD"
@@ -11351,6 +12275,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -11375,6 +12301,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -11399,6 +12327,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -11423,6 +12353,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -11447,6 +12379,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -11471,6 +12405,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -11495,6 +12431,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -11519,6 +12457,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -11543,6 +12483,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Physical Mastery"
@@ -11567,6 +12509,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -11591,6 +12535,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Accuracy"
@@ -11615,6 +12561,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Raw Ore ×200 consumed, +24",
     "stats": [
       "SPD"
@@ -11639,6 +12587,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG Boost"
@@ -11663,6 +12613,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -11687,6 +12639,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -11711,6 +12665,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -11735,6 +12691,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -11759,6 +12717,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -11783,6 +12743,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -11807,6 +12769,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -11831,6 +12795,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -11855,6 +12821,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -11879,6 +12847,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -11903,6 +12873,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Goddess Statue ×1 activated, +30",
     "stats": [
       "ATK"
@@ -11927,6 +12899,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -11939,6 +12913,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -11963,6 +12939,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -11987,6 +12965,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -12011,6 +12991,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -12035,6 +13017,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -12059,6 +13043,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Battle ×4 won, +228",
     "stats": [
       "HP"
@@ -12083,6 +13069,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -12107,6 +13095,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "Crit DMG"
@@ -12131,6 +13121,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Physical RES"
@@ -12155,6 +13147,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -12179,6 +13173,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -12203,6 +13199,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -12227,6 +13225,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -12251,6 +13251,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -12275,6 +13277,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -12299,6 +13303,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -12323,6 +13329,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit Rate"
@@ -12347,6 +13355,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -12371,6 +13381,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Armor ×1 dismantled, +46",
     "stats": [
       "ATK"
@@ -12395,6 +13407,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -12419,6 +13433,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "For every +3 of gear enhancement, +76",
     "stats": [
       "DEF"
@@ -12443,6 +13459,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "Crit DMG"
@@ -12467,6 +13485,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -12492,6 +13512,7 @@
     "element": "Light",
     "region": "Cinder Ridge",
     "area": "XIII",
+    "gacha": "",
     "description": "For every +1 of boots enhancement, +46",
     "stats": [
       "DEF"
@@ -12516,6 +13537,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "Every time you spend Chrono Sand ×1500, +152.",
     "stats": [
       "HP"
@@ -12540,6 +13563,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -12564,6 +13589,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -12588,6 +13615,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -12612,6 +13641,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -12636,6 +13667,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Block Rate"
@@ -12660,6 +13693,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -12684,6 +13719,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -12708,6 +13745,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -12732,6 +13771,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -12756,6 +13797,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -12780,6 +13823,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -12804,6 +13849,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -12828,6 +13875,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -12852,6 +13901,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -12876,6 +13927,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -12900,6 +13953,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -12924,6 +13979,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -12948,6 +14005,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -12972,6 +14031,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -12996,6 +14057,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -13032,6 +14095,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "HP"
@@ -13056,6 +14121,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "Crit DMG"
@@ -13080,6 +14147,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -13104,6 +14173,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Weapon ×1 dismantled, +228",
     "stats": [
       "HP"
@@ -13128,6 +14199,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "HP"
@@ -13152,6 +14225,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13176,6 +14251,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -13200,6 +14277,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -13224,6 +14303,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13248,6 +14329,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -13260,6 +14343,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13284,6 +14369,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -13332,6 +14419,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every Boots ×2 dismantled, +76",
     "stats": [
       "ATK"
@@ -13356,6 +14445,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -13380,7 +14471,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -13405,6 +14497,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -13429,7 +14523,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+9%",
     "stats": [
       "Crit DMG"
@@ -13454,6 +14549,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Raw Ore ×200 consumed, +24",
     "stats": [
       "SPD"
@@ -13478,6 +14575,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -13502,6 +14601,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13526,6 +14627,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13550,6 +14653,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -13574,6 +14679,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Block Rate"
@@ -13598,6 +14705,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -13622,6 +14731,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13646,6 +14757,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -13670,6 +14783,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Green Grains/Mushroom gathering(s), +30",
     "stats": [
       "DEF"
@@ -13694,6 +14809,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -13718,6 +14835,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "HP"
@@ -13742,6 +14861,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -13766,6 +14887,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -13790,6 +14913,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every Critical Hit ×6 triggered in battle, +30",
     "stats": [
       "ATK"
@@ -13826,6 +14951,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13850,6 +14977,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -13874,6 +15003,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Physical Mastery"
@@ -13898,6 +15029,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -13922,6 +15055,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -13946,6 +15081,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -13970,6 +15107,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -13994,6 +15133,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -14018,6 +15159,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -14042,6 +15185,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -14066,6 +15211,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -14090,6 +15237,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Effect RES"
@@ -14114,6 +15263,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -14138,6 +15289,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -14162,6 +15315,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -14186,6 +15341,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -14210,6 +15367,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -14234,6 +15393,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -14258,6 +15419,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -14282,6 +15445,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Block Rate"
@@ -14306,6 +15471,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -14330,6 +15497,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -14354,6 +15523,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "SPD"
@@ -14378,6 +15549,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Refined Ore ×15 consumed, +30",
     "stats": [
       "ATK"
@@ -14402,6 +15575,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG RES"
@@ -14426,6 +15601,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -14450,6 +15627,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -14474,6 +15653,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -14498,6 +15679,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -14522,6 +15705,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -14546,6 +15731,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -14570,6 +15757,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -14594,6 +15783,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -14618,6 +15809,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every 40 Stamina consumed, +24",
     "stats": [
       "SPD"
@@ -14654,6 +15847,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -14678,6 +15873,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -14702,6 +15899,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every Treasure Chest ×2 opened, +30",
     "stats": [
       "DEF"
@@ -14726,6 +15925,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -14750,6 +15951,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every +1 of helmet enhancement, +76",
     "stats": [
       "DEF"
@@ -14774,6 +15977,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 level(s) up for the highest skill quality, +381",
     "stats": [
       "HP"
@@ -14798,6 +16003,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every +1 of armor enhancement, +37",
     "stats": [
       "SPD"
@@ -14822,6 +16029,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit RES"
@@ -14846,6 +16055,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -14870,6 +16081,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -14894,6 +16107,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Weapon ×1 dismantled, +46",
     "stats": [
       "DEF"
@@ -14918,6 +16133,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -14942,6 +16159,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Minion ×20 defeated, +24",
     "stats": [
       "SPD"
@@ -14966,6 +16185,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -14990,6 +16211,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -15014,6 +16237,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -15038,6 +16263,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -15062,6 +16289,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -15086,6 +16315,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -15110,6 +16341,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -15134,7 +16367,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -15159,6 +16393,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -15183,6 +16419,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -15207,6 +16445,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -15231,6 +16471,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -15255,6 +16497,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG RES"
@@ -15279,6 +16523,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -15303,6 +16549,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -15327,7 +16575,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "Block Rate"
@@ -15352,6 +16601,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -15376,6 +16627,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -15400,6 +16653,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -15424,6 +16679,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -15448,6 +16705,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -15472,6 +16731,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+1.2%",
     "stats": [
       "DMG RES"
@@ -15496,6 +16757,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -15520,6 +16783,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -15544,6 +16809,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -15568,6 +16835,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -15592,6 +16861,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -15616,6 +16887,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -15640,6 +16913,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -15664,6 +16939,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -15688,6 +16965,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -15712,6 +16991,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -15736,6 +17017,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Dawnium picked up, +152",
     "stats": [
       "HP"
@@ -15760,6 +17043,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -15784,6 +17069,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -15808,6 +17095,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -15832,6 +17121,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -15856,6 +17147,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -15880,6 +17173,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -15904,6 +17199,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Armor ×1 dismantled, +228",
     "stats": [
       "HP"
@@ -15928,6 +17225,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG Boost"
@@ -15952,6 +17251,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -15976,6 +17277,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -16000,6 +17303,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -16024,6 +17329,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every +1 of weapon enhancement, +61",
     "stats": [
       "SPD"
@@ -16048,6 +17355,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -16072,6 +17381,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -16096,6 +17407,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -16120,6 +17433,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -16144,6 +17459,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -16168,6 +17485,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -16192,6 +17511,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "HP"
@@ -16216,6 +17537,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -16240,6 +17563,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -16264,6 +17589,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Accuracy"
@@ -16288,6 +17615,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -16312,6 +17641,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -16336,6 +17667,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG Boost"
@@ -16360,6 +17693,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -16384,6 +17719,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -16408,6 +17745,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -16432,6 +17771,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Boots ×2 dismantled, +76",
     "stats": [
       "ATK"
@@ -16456,6 +17797,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -16480,6 +17823,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Dawnium picked up, +30",
     "stats": [
       "DEF"
@@ -16504,6 +17849,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every Destiny Fruit ×2 gathered, +152",
     "stats": [
       "HP"
@@ -16528,6 +17875,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -16552,6 +17901,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -16576,6 +17927,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -16600,6 +17953,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Raw Ore mining(s), +24",
     "stats": [
       "SPD"
@@ -16624,6 +17979,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "HP"
@@ -16648,6 +18005,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -16672,6 +18031,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -16696,6 +18057,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -16720,6 +18083,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -16744,6 +18109,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Raw Ore mining(s), +24",
     "stats": [
       "SPD"
@@ -16768,6 +18135,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect RES"
@@ -16792,6 +18161,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -16816,6 +18187,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -16840,6 +18213,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -16864,6 +18239,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -16888,6 +18265,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -16912,6 +18291,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -16936,6 +18317,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -16960,6 +18343,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit Rate"
@@ -16984,6 +18369,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -17008,6 +18395,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -17032,6 +18421,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -17056,6 +18447,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -17080,6 +18473,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -17104,6 +18499,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -17128,6 +18525,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -17164,6 +18563,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -17188,6 +18589,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -17212,6 +18615,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -17236,6 +18641,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -17260,6 +18667,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every +1 of helmet enhancement, +46",
     "stats": [
       "ATK"
@@ -17284,6 +18693,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -17308,6 +18719,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -17332,6 +18745,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -17356,6 +18771,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -17380,6 +18797,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -17404,6 +18823,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -17428,6 +18849,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Block Rate"
@@ -17452,6 +18875,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -17476,6 +18901,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -17500,6 +18927,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -17524,7 +18953,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "HP"
@@ -17549,6 +18979,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -17573,6 +19005,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -17597,6 +19031,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -17621,6 +19057,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -17645,6 +19083,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical RES"
@@ -17669,6 +19109,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "HP"
@@ -17693,6 +19135,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -17729,6 +19173,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3%",
     "stats": [
       "DMG RES"
@@ -17753,6 +19199,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -17777,6 +19225,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+5.4%",
     "stats": [
       "Crit DMG"
@@ -17801,6 +19251,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -17825,6 +19277,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Accuracy"
@@ -17849,6 +19303,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Boots ×1 dismantled, +37",
     "stats": [
       "SPD"
@@ -17873,6 +19329,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -17897,6 +19355,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -17921,6 +19381,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -17945,6 +19407,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -17969,6 +19433,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "ATK"
@@ -17993,6 +19459,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG RES"
@@ -18017,6 +19485,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "HP"
@@ -18041,6 +19511,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Attack ×6 blocked by enemies in battle, +152",
     "stats": [
       "HP"
@@ -18065,6 +19537,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -18089,6 +19563,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -18113,6 +19589,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -18137,6 +19615,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "SPD"
@@ -18161,6 +19641,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -18185,6 +19667,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "ATK"
@@ -18209,6 +19693,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -18233,6 +19719,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -18257,6 +19745,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -18281,6 +19771,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -18305,6 +19797,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "DEF"
@@ -18329,6 +19823,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Goddess Statue ×1 activated, +30",
     "stats": [
       "ATK"
@@ -18353,7 +19849,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -18378,6 +19875,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "Crit DMG"
@@ -18414,6 +19913,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -18450,6 +19951,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -18474,6 +19977,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Effect RES"
@@ -18498,6 +20003,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every +1 of boots enhancement, +46",
     "stats": [
       "DEF"
@@ -18522,6 +20029,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -18546,6 +20055,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -18570,6 +20081,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -18594,6 +20107,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -18618,6 +20133,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Daily Quest ×2 completed, +152",
     "stats": [
       "HP"
@@ -18642,6 +20159,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 level(s) up for the highest skill quality, +46",
     "stats": [
       "DEF"
@@ -18666,6 +20185,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -18690,6 +20211,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -18714,6 +20237,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -18738,6 +20263,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -18762,6 +20289,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -18786,6 +20315,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -18810,6 +20341,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -18834,6 +20367,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -18858,6 +20393,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -18882,6 +20419,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -18906,7 +20445,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -18931,6 +20471,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -18955,6 +20497,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -18979,6 +20523,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -19003,6 +20549,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -19039,6 +20587,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Block Rate"
@@ -19063,6 +20613,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+346",
     "stats": [
       "HP"
@@ -19087,6 +20639,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -19123,6 +20677,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "ATK"
@@ -19147,6 +20703,8 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -19183,6 +20741,8 @@
     "rarity": "Rare",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -19207,6 +20767,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -19231,6 +20793,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -19255,6 +20819,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "ATK"
@@ -19279,6 +20845,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -19303,6 +20871,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -19327,6 +20897,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Destiny Fruit ×2 consumed, +24",
     "stats": [
       "SPD"
@@ -19351,6 +20923,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -19375,6 +20949,8 @@
     "rarity": "Legendary",
     "element": "Water",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -19399,6 +20975,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -19423,6 +21001,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -19447,6 +21027,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -19471,6 +21053,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -19495,6 +21079,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Block Rate"
@@ -19519,6 +21105,8 @@
     "rarity": "Rare",
     "element": "Water",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -19543,6 +21131,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -19567,6 +21157,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -19591,6 +21183,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -19615,6 +21209,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+138",
     "stats": [
       "HP"
@@ -19639,6 +21235,8 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -19663,7 +21261,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "ATK"
@@ -19688,6 +21287,8 @@
     "rarity": "Legendary",
     "element": "Fire",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -19712,6 +21313,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "HP"
@@ -19736,6 +21339,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Boots ×2 dismantled, +76",
     "stats": [
       "ATK"
@@ -19760,6 +21365,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+9%",
     "stats": [
       "HP"
@@ -19784,6 +21391,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -19808,6 +21417,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "DEF"
@@ -19832,6 +21443,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -19856,6 +21469,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental RES"
@@ -19880,6 +21495,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Elemental Mastery"
@@ -19904,6 +21521,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "SPD"
@@ -19928,6 +21547,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+5.4%",
     "stats": [
       "Block Efficiency"
@@ -19952,6 +21573,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -19976,6 +21599,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -20000,6 +21625,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
@@ -20024,6 +21651,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -20048,6 +21677,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -20072,6 +21703,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Physical Mastery"
@@ -20096,6 +21729,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Cinder Ridge",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "SPD"
@@ -20120,6 +21755,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+55",
     "stats": [
       "SPD"
@@ -20144,6 +21781,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "DEF"
@@ -20168,6 +21807,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "Every time you spend Chrono Sand ×1500, +30.",
     "stats": [
       "DEF"
@@ -20192,6 +21833,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -20216,6 +21859,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "ATK"
@@ -20240,6 +21885,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every Critical Hit ×6 received in battle, +152",
     "stats": [
       "HP"
@@ -20264,6 +21911,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+42",
     "stats": [
       "DEF"
@@ -20288,6 +21937,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Effect Hit Rate"
@@ -20312,6 +21963,8 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 Raw Ore mining(s), +152",
     "stats": [
       "HP"
@@ -20336,6 +21989,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+14",
     "stats": [
       "DEF"
@@ -20372,6 +22027,8 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+21",
     "stats": [
       "Elemental Mastery"
@@ -20396,6 +22053,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Crit RES"
@@ -20420,6 +22079,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -20444,7 +22105,8 @@
     "rarity": "Mythic",
     "element": "Water",
     "region": "Loong Haven",
-    "gatcha": "Ethereal Oracle",
+    "area": "",
+    "gacha": "Ethereal Oracle",
     "description": "+15%",
     "stats": [
       "DEF"
@@ -20469,6 +22131,8 @@
     "rarity": "Rare",
     "element": "Dark",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+10",
     "stats": [
       "SPD"
@@ -20493,6 +22157,8 @@
     "rarity": "Rare",
     "element": "Light",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -20517,6 +22183,8 @@
     "rarity": "Legendary",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+1.8%",
     "stats": [
       "DMG RES"
@@ -20541,6 +22209,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "DEF"
@@ -20565,6 +22235,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+6%",
     "stats": [
       "Accuracy"
@@ -20589,6 +22261,8 @@
     "rarity": "Rare",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+69",
     "stats": [
       "HP"
@@ -20613,6 +22287,8 @@
     "rarity": "Mythic",
     "element": "Light",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every +1 of weapon enhancement, +61",
     "stats": [
       "SPD"
@@ -20637,6 +22313,8 @@
     "rarity": "Mythic",
     "element": "Fire",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -20661,6 +22339,8 @@
     "rarity": "Mythic",
     "element": "Dark",
     "region": "Aqualis",
+    "area": "",
+    "gacha": "",
     "description": "For every 1 level(s) up for the highest skill quality, +381",
     "stats": [
       "HP"
@@ -20685,6 +22365,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+3.6%",
     "stats": [
       "Crit RES"
@@ -20709,6 +22391,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -20733,6 +22417,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Verdantglade",
+    "area": "",
+    "gacha": "",
     "description": "+207",
     "stats": [
       "HP"
@@ -20757,6 +22443,8 @@
     "rarity": "Legendary",
     "element": "Wind",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -20781,6 +22469,8 @@
     "rarity": "Mythic",
     "element": "Wind",
     "region": "Loong Haven",
+    "area": "",
+    "gacha": "",
     "description": "+15%",
     "stats": [
       "SPD"
@@ -20901,6 +22591,8 @@
     "rarity": "Legendary",
     "element": "Dark",
     "region": "Aethyris",
+    "area": "",
+    "gacha": "",
     "description": "+33",
     "stats": [
       "Effect Hit Rate"
@@ -20925,6 +22617,8 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Hapadi",
+    "area": "",
+    "gacha": "",
     "description": "+27",
     "stats": [
       "ATK"
