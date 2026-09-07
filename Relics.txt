@@ -1174,7 +1174,7 @@
     "stats": [
       "HP"
     ],
-    "set": Solar Embrace,
+    "set": "Solar Embrace",
     "set_bonus": [
       [
         "HP"
@@ -3587,7 +3587,7 @@
     "stats": [
       "ATK"
     ],
-    "set": Solar Embrace,
+    "set": "Solar Embrace",
     "set_bonus": [
       [
         "HP"
@@ -10551,7 +10551,7 @@
     "stats": [
       "SPD"
     ],
-    "set": Solar Embrace,
+    "set": "Solar Embrace",
     "set_bonus": [
       [
         "HP"
@@ -12496,7 +12496,7 @@
     "stats": [
       "DEF"
     ],
-    "set": Solar Embrace,
+    "set": "Solar Embrace",
     "set_bonus": [
       [
         "HP"
