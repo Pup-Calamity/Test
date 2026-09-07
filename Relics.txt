@@ -967,13 +967,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "VII",
     "gacha": "Machina Trove",
     "description": "For every Block ×6 triggered in battle, +152",
     "stats": [
       "HP"
     ],
-    "set": 60221,
+    "set": "Unveiled Mystery",
     "set_bonus": [
       [
         "DEF"
@@ -1089,7 +1089,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60322,
+    "set": "Whirling Leaves",
     "set_bonus": [
       [
         "DEF"
@@ -1318,12 +1318,12 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+21",
     "stats": [
       "SPD"
     ],
-    "set": 68902,
+    "set": "Reverie in the Clouds",
     "set_bonus": [
       [
         "HP"
@@ -1499,13 +1499,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "II",
     "gacha": "Machina Trove",
     "description": "+21",
     "stats": [
       "Elemental RES"
     ],
-    "set": 60222,
+    "set": "Howling Gale",
     "set_bonus": [
       [
         "ATK"
@@ -1630,12 +1630,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "DEF"
     ],
-    "set": 68901,
+    "set": "Nocturnal Hunt",
     "set_bonus": [
       [
         "SPD"
@@ -1656,12 +1656,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+21",
     "stats": [
       "SPD"
     ],
-    "set": 68900,
+    "set": "Ephemeral Splendor",
     "set_bonus": [
       [
         "HP"
@@ -1890,12 +1890,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "ATK"
     ],
-    "set": 68901,
+    "set": "Nocturnal Hunt",
     "set_bonus": [
       [
         "SPD"
@@ -1993,13 +1993,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "V",
     "gacha": "Machina Trove",
     "description": "For every Critical Hit ×6 received in battle, +24",
     "stats": [
       "SPD"
     ],
-    "set": 60224,
+    "set": "Faint Ember Glow",
     "set_bonus": [
       [
         "HP"
@@ -2279,13 +2279,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
-    "area": "",
+    "area": "IV",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "HP"
     ],
-    "set": 60422,
+    "set": "Endless Romance",
     "set_bonus": [
       [
         "HP"
@@ -2591,13 +2591,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Verdantglade",
-    "area": "",
+    "area": "VI",
     "gacha": "Sylvan Relics",
     "description": "+21",
     "stats": [
       "Physical RES"
     ],
-    "set": 60123,
+    "set": "Pristine Waters",
     "set_bonus": [
       [
         "SPD"
@@ -3150,12 +3150,12 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+138",
     "stats": [
       "HP"
     ],
-    "set": 68902,
+    "set": "Reverie in the Clouds",
     "set_bonus": [
       [
         "HP"
@@ -3539,13 +3539,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "X",
     "gacha": "Machina Trove",
     "description": "For every Attack ×6 blocked by enemies in battle, +30",
     "stats": [
       "DEF"
     ],
-    "set": 60221,
+    "set": "Unveiled Mystery",
     "set_bonus": [
       [
         "DEF"
@@ -3565,13 +3565,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
-    "area": "",
+    "area": "VI",
     "gacha": "Celestial Crafts",
     "description": "+138",
     "stats": [
       "HP"
     ],
-    "set": 60421,
+    "set": "Illusory Ascension",
     "set_bonus": [
       [
         "SPD"
@@ -3644,12 +3644,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+21",
     "stats": [
       "SPD"
     ],
-    "set": 68900,
+    "set": "Ephemeral Splendor",
     "set_bonus": [
       [
         "HP"
@@ -3851,13 +3851,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XI",
     "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "SPD"
     ],
-    "set": 60121,
+    "set": "Nocturne's Cadence",
     "set_bonus": [
       [
         "SPD"
@@ -3955,13 +3955,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Verdantglade",
-    "area": "",
+    "area": "I",
     "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "ATK"
     ],
-    "set": 60121,
+    "set": "Nocturne's Cadence",
     "set_bonus": [
       [
         "SPD"
@@ -4370,12 +4370,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "HP"
     ],
-    "set": 68901,
+    "set": "Nocturnal Hunt",
     "set_bonus": [
       [
         "SPD"
@@ -4395,13 +4395,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aqualis",
-    "area": "",
+    "area": "IV",
     "gacha": "Ukiyo Tales",
     "description": "For every Block ×6 triggered in battle, +30",
     "stats": [
       "DEF"
     ],
-    "set": 60320,
+    "set": "Mind's Eye",
     "set_bonus": [
       [
         "HP"
@@ -4421,13 +4421,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XVI",
     "gacha": "Sylvan Relics",
     "description": "For every 1 Raw Ore mining(s), +30",
     "stats": [
       "ATK"
     ],
-    "set": 60120,
+    "set": "Fleeting Memories",
     "set_bonus": [
       [
         "HP"
@@ -4655,13 +4655,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XV",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "SPD"
     ],
-    "set": 60422,
+    "set": "Endless Romance",
     "set_bonus": [
       [
         "HP"
@@ -5119,13 +5119,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XII",
     "gacha": "Machina Trove",
     "description": "For every 1 Chrono Sand mining(s), +30",
     "stats": [
       "ATK"
     ],
-    "set": 60223,
+    "set": "Dune Sail",
     "set_bonus": [
       [
         "DEF"
@@ -5731,13 +5731,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XVIII",
     "gacha": "Machina Trove",
     "description": "For every Refined Ore ×15 consumed, +30",
     "stats": [
       "ATK"
     ],
-    "set": 60221,
+    "set": "Unveiled Mystery",
     "set_bonus": [
       [
         "DEF"
@@ -6381,13 +6381,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XIII",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "SPD"
     ],
-    "set": 60424,
+    "set": "Eternal Flame",
     "set_bonus": [
       [
         "ATK"
@@ -6408,12 +6408,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+138",
     "stats": [
       "HP"
     ],
-    "set": 68904,
+    "set": "Worldly Moment",
     "set_bonus": [
       [
         "ATK"
@@ -6459,13 +6459,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XVII",
     "gacha": "Sylvan Relics",
     "description": "For every Goddess Statue ×1 activated, +30",
     "stats": [
       "DEF"
     ],
-    "set": 60124,
+    "set": "Fiery Heartbeat",
     "set_bonus": [
       [
         "ATK"
@@ -6485,13 +6485,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
-    "area": "",
+    "area": "V",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "HP"
     ],
-    "set": 60424,
+    "set": "Eternal Flame",
     "set_bonus": [
       [
         "ATK"
@@ -6849,13 +6849,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aqualis",
-    "area": "",
+    "area": "XIV",
     "gacha": "Ukiyo Tales",
     "description": "+21",
     "stats": [
       "Effect Hit Rate"
     ],
-    "set": 60324,
+    "set": "Realm of Shiranui",
     "set_bonus": [
       [
         "HP"
@@ -6875,13 +6875,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Verdantglade",
-    "area": "",
+    "area": "X",
     "gacha": "Sylvan Relics",
     "description": "For every Minion ×20 defeated, +30",
     "stats": [
       "ATK"
     ],
-    "set": 60124,
+    "set": "Fiery Heartbeat",
     "set_bonus": [
       [
         "ATK"
@@ -7005,13 +7005,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aqualis",
-    "area": "",
+    "area": "III",
     "gacha": "Ukiyo Tales",
     "description": "+1.2%",
     "stats": [
       "DMG Boost"
     ],
-    "set": 60324,
+    "set": "Realm of Shiranui",
     "set_bonus": [
       [
         "HP"
@@ -7187,13 +7187,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
-    "area": "",
+    "area": "I",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "DEF"
     ],
-    "set": 60423,
+    "set": "Formless Waters",
     "set_bonus": [
       [
         "SPD"
@@ -7370,12 +7370,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+21",
     "stats": [
       "SPD"
     ],
-    "set": 68904,
+    "set": "Worldly Moment",
     "set_bonus": [
       [
         "ATK"
@@ -7453,7 +7453,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60122,
+    "set": "Predator or Prey",
     "set_bonus": [
       [
         "HP"
@@ -7733,13 +7733,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aqualis",
-    "area": "",
+    "area": "XIII",
     "gacha": "Ukiyo Tales",
     "description": "For every Portal ×1 activated, +30",
     "stats": [
       "DEF"
     ],
-    "set": 60322,
+    "set": "Whirling Leaves",
     "set_bonus": [
       [
         "DEF"
@@ -7941,13 +7941,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aqualis",
-    "area": "",
+    "area": "IX",
     "gacha": "Ukiyo Tales",
     "description": "+1.2%",
     "stats": [
       "DMG RES"
     ],
-    "set": 60324,
+    "set": "Realm of Shiranui",
     "set_bonus": [
       [
         "HP"
@@ -8098,12 +8098,12 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+21",
     "stats": [
       "SPD"
     ],
-    "set": 68903,
+    "set": "Time's Delight",
     "set_bonus": [
       [
         "SPD"
@@ -8331,13 +8331,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XIII",
     "gacha": "Sylvan Relics",
     "description": "For every Boss ×1 defeated, +30",
     "stats": [
       "DEF"
     ],
-    "set": 60120,
+    "set": "Fleeting Memories",
     "set_bonus": [
       [
         "HP"
@@ -8525,13 +8525,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "VI",
     "gacha": "Machina Trove",
     "description": "+6%",
     "stats": [
       "ATK"
     ],
-    "set": 60220,
+    "set": "Fractured Luminary",
     "set_bonus": [
       [
         "ATK"
@@ -8850,12 +8850,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+27",
     "stats": [
       "ATK"
     ],
-    "set": 68904,
+    "set": "Worldly Moment",
     "set_bonus": [
       [
         "ATK"
@@ -9135,13 +9135,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aqualis",
-    "area": "",
+    "area": "I",
     "gacha": "Ukiyo Tales",
     "description": "For every Battle ×1 lost, +30",
     "stats": [
       "ATK"
     ],
-    "set": 60320,
+    "set": "Mind's Eye",
     "set_bonus": [
       [
         "HP"
@@ -9407,13 +9407,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aqualis",
-    "area": "",
+    "area": "XVII",
     "gacha": "Ukiyo Tales",
     "description": "For every Battle ×1 lost, +30",
     "stats": [
       "DEF"
     ],
-    "set": 60323,
+    "set": "Golden Surge",
     "set_bonus": [
       [
         "ATK"
@@ -9693,13 +9693,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XII",
     "gacha": "Sylvan Relics",
     "description": "+21",
     "stats": [
       "Physical Mastery"
     ],
-    "set": 60123,
+    "set": "Pristine Waters",
     "set_bonus": [
       [
         "SPD"
@@ -9875,13 +9875,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XV",
     "gacha": "Machina Trove",
     "description": "For every Map Building ×2 activated, +152",
     "stats": [
       "HP"
     ],
-    "set": 60224,
+    "set": "Faint Ember Glow",
     "set_bonus": [
       [
         "HP"
@@ -10200,12 +10200,12 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+27",
     "stats": [
       "DEF"
     ],
-    "set": 68903,
+    "set": "Time's Delight",
     "set_bonus": [
       [
         "SPD"
@@ -10277,13 +10277,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
-    "area": "",
+    "area": "II",
     "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "DEF"
     ],
-    "set": 60420,
+    "set": "Dawning White",
     "set_bonus": [
       [
         "HP"
@@ -10303,13 +10303,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
-    "area": "",
+    "area": "X",
     "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "DEF"
     ],
-    "set": 60420,
+    "set": "Dawning White",
     "set_bonus": [
       [
         "HP"
@@ -10954,12 +10954,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+138",
     "stats": [
       "HP"
     ],
-    "set": 68900,
+    "set": "Ephemeral Splendor",
     "set_bonus": [
       [
         "HP"
@@ -11193,7 +11193,7 @@
     "stats": [
       "SPD"
     ],
-    "set": 60123,
+    "set": "Pristine Waters",
     "set_bonus": [
       [
         "SPD"
@@ -11226,12 +11226,12 @@
     "element": "Light",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+138",
     "stats": [
       "HP"
     ],
-    "set": 68900,
+    "set": "Ephemeral Splendor",
     "set_bonus": [
       [
         "HP"
@@ -11381,13 +11381,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Cinder Ridge",
-    "area": "Machina Trove",
+    "area": "XIV",
     "gacha": "Machina Trove",
     "description": "+6%",
     "stats": [
       "SPD"
     ],
-    "set": 60220,
+    "set": "Fractured Luminary",
     "set_bonus": [
       [
         "ATK"
@@ -11887,13 +11887,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "IX",
     "gacha": "Machina Trove",
     "description": "+138",
     "stats": [
       "HP"
     ],
-    "set": 60222,
+    "set": "Howling Gale",
     "set_bonus": [
       [
         "ATK"
@@ -11913,13 +11913,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XVI",
     "gacha": "Machina Trove",
     "description": "+21",
     "stats": [
       "Elemental Mastery"
     ],
-    "set": 60222,
+    "set": "Howling Gale",
     "set_bonus": [
       [
         "ATK"
@@ -11977,13 +11977,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aqualis",
-    "area": "",
+    "area": "XI",
     "gacha": "Ukiyo Tales",
     "description": "For every 1 Raw Ore mining(s), +152",
     "stats": [
       "HP"
     ],
-    "set": 60323,
+    "set": "Golden Surge",
     "set_bonus": [
       [
         "ATK"
@@ -12172,12 +12172,12 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+27",
     "stats": [
       "DEF"
     ],
-    "set": 68902,
+    "set": "Reverie in the Clouds",
     "set_bonus": [
       [
         "HP"
@@ -12249,13 +12249,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Verdantglade",
-    "area": "",
+    "area": "III",
     "gacha": "Sylvan Relics",
     "description": "For every Block ×6 triggered in battle, +24",
     "stats": [
       "SPD"
     ],
-    "set": 60124,
+    "set": "Fiery Heartbeat",
     "set_bonus": [
       [
         "ATK"
@@ -12509,13 +12509,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XI",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "ATK"
     ],
-    "set": 60422,
+    "set": "Endless Romance",
     "set_bonus": [
       [
         "HP"
@@ -12561,13 +12561,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aqualis",
-    "area": "",
+    "area": "XV",
     "gacha": "Ukiyo Tales",
     "description": "For every Raw Ore ×200 consumed, +24",
     "stats": [
       "SPD"
     ],
-    "set": 60321,
+    "set": "Enigma",
     "set_bonus": [
       [
         "SPD"
@@ -12873,13 +12873,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Verdantglade",
-    "area": "",
+    "area": "VII",
     "gacha": "Sylvan Relics",
     "description": "For every Goddess Statue ×1 activated, +30",
     "stats": [
       "ATK"
     ],
-    "set": 60120,
+    "set": "Fleeting Memories",
     "set_bonus": [
       [
         "HP"
@@ -13537,13 +13537,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aqualis",
-    "area": "",
+    "area": "XVI",
     "gacha": "Ukiyo Tales",
     "description": "Every time you spend Chrono Sand ×1500, +152.",
     "stats": [
       "HP"
     ],
-    "set": 60321,
+    "set": "Enigma",
     "set_bonus": [
       [
         "SPD"
@@ -13745,13 +13745,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XVII",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "DEF"
     ],
-    "set": 60424,
+    "set": "Eternal Flame",
     "set_bonus": [
       [
         "ATK"
@@ -14199,13 +14199,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XVIII",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "HP"
     ],
-    "set": 60423,
+    "set": "Formless Waters",
     "set_bonus": [
       [
         "SPD"
@@ -14370,12 +14370,12 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+27",
     "stats": [
       "ATK"
     ],
-    "set": 68903,
+    "set": "Time's Delight",
     "set_bonus": [
       [
         "SPD"
@@ -14549,13 +14549,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XV",
     "gacha": "Sylvan Relics",
     "description": "For every Raw Ore ×200 consumed, +24",
     "stats": [
       "SPD"
     ],
-    "set": 60120,
+    "set": "Fleeting Memories",
     "set_bonus": [
       [
         "HP"
@@ -14789,7 +14789,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60224,
+    "set": "Faint Ember Glow",
     "set_bonus": [
       [
         "HP"
@@ -14913,13 +14913,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "I",
     "gacha": "Machina Trove",
     "description": "For every Critical Hit ×6 triggered in battle, +30",
     "stats": [
       "ATK"
     ],
-    "set": 60224,
+    "set": "Faint Ember Glow",
     "set_bonus": [
       [
         "HP"
@@ -15549,13 +15549,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aqualis",
-    "area": "",
+    "area": "V",
     "gacha": "Ukiyo Tales",
     "description": "For every Refined Ore ×15 consumed, +30",
     "stats": [
       "ATK"
     ],
-    "set": 60322,
+    "set": "Whirling Leaves",
     "set_bonus": [
       [
         "DEF"
@@ -15653,13 +15653,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XVI",
     "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "ATK"
     ],
-    "set": 60420,
+    "set": "Dawning White",
     "set_bonus": [
       [
         "HP"
@@ -15809,13 +15809,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "VIII",
     "gacha": "Machina Trove",
     "description": "For every 40 Stamina consumed, +24",
     "stats": [
       "SPD"
     ],
-    "set": 60223,
+    "set": "Dune Sail",
     "set_bonus": [
       [
         "DEF"
@@ -15899,13 +15899,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XVII",
     "gacha": "Machina Trove",
     "description": "For every Treasure Chest ×2 opened, +30",
     "stats": [
       "DEF"
     ],
-    "set": 60223,
+    "set": "Dune Sail",
     "set_bonus": [
       [
         "DEF"
@@ -16055,13 +16055,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Loong Haven",
-    "area": "",
+    "area": "III",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "ATK"
     ],
-    "set": 60424,
+    "set": "Eternal Flame",
     "set_bonus": [
       [
         "ATK"
@@ -16133,13 +16133,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Verdantglade",
-    "area": "",
+    "area": "IV",
     "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "DEF"
     ],
-    "set": 60121,
+    "set": "Nocturne's Cadence",
     "set_bonus": [
       [
         "SPD"
@@ -16159,13 +16159,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Verdantglade",
-    "area": "",
+    "area": "XIV",
     "gacha": "Sylvan Relics",
     "description": "For every Minion ×20 defeated, +24",
     "stats": [
       "SPD"
     ],
-    "set": 60122,
+    "set": "Predator or Prey",
     "set_bonus": [
       [
         "HP"
@@ -16186,12 +16186,12 @@
     "element": "Wind",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+27",
     "stats": [
       "ATK"
     ],
-    "set": 68902,
+    "set": "Reverie in the Clouds",
     "set_bonus": [
       [
         "HP"
@@ -16810,12 +16810,12 @@
     "element": "Dark",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+6%",
     "stats": [
       "SPD"
     ],
-    "set": 68901,
+    "set": "Nocturnal Hunt",
     "set_bonus": [
       [
         "SPD"
@@ -16835,13 +16835,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
-    "area": "",
+    "area": "VII",
     "gacha": "Celestial Crafts",
     "description": "+21",
     "stats": [
       "SPD"
     ],
-    "set": 60421,
+    "set": "Illusory Ascension",
     "set_bonus": [
       [
         "SPD"
@@ -17017,13 +17017,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "IV",
     "gacha": "Machina Trove",
     "description": "For every 1 Dawnium picked up, +152",
     "stats": [
       "HP"
     ],
-    "set": 60223,
+    "set": "Dune Sail",
     "set_bonus": [
       [
         "DEF"
@@ -17823,13 +17823,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aqualis",
-    "area": "",
+    "area": "VI",
     "gacha": "Ukiyo Tales",
     "description": "For every 1 Dawnium picked up, +30",
     "stats": [
       "DEF"
     ],
-    "set": 60321,
+    "set": "Enigma",
     "set_bonus": [
       [
         "SPD"
@@ -17855,7 +17855,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60124,
+    "set": "Fiery Heartbeat",
     "set_bonus": [
       [
         "ATK"
@@ -17953,13 +17953,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XIII",
     "gacha": "Machina Trove",
     "description": "For every 1 Raw Ore mining(s), +24",
     "stats": [
       "SPD"
     ],
-    "set": 60221,
+    "set": "Unveiled Mystery",
     "set_bonus": [
       [
         "DEF"
@@ -17979,13 +17979,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Verdantglade",
-    "area": "",
+    "area": "II",
     "gacha": "Sylvan Relics",
     "description": "+6%",
     "stats": [
       "HP"
     ],
-    "set": 60121,
+    "set": "Nocturne's Cadence",
     "set_bonus": [
       [
         "SPD"
@@ -18083,13 +18083,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XIV",
     "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "DEF"
     ],
-    "set": 60421,
+    "set": "Illusory Ascension",
     "set_bonus": [
       [
         "SPD"
@@ -18109,13 +18109,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aqualis",
-    "area": "",
+    "area": "XII",
     "gacha": "Ukiyo Tales",
     "description": "For every 1 Raw Ore mining(s), +24",
     "stats": [
       "SPD"
     ],
-    "set": 60320,
+    "set": "Mind's Eye",
     "set_bonus": [
       [
         "HP"
@@ -19485,13 +19485,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "XI",
     "gacha": "Machina Trove",
     "description": "+6%",
     "stats": [
       "HP"
     ],
-    "set": 60220,
+    "set": "Fractured Luminary",
     "set_bonus": [
       [
         "ATK"
@@ -19511,13 +19511,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Aqualis",
-    "area": "",
+    "area": "XVIII",
     "gacha": "Ukiyo Tales",
     "description": "For every Attack ×6 blocked by enemies in battle, +152",
     "stats": [
       "HP"
     ],
-    "set": 60320,
+    "set": "Mind's Eye",
     "set_bonus": [
       [
         "HP"
@@ -19563,13 +19563,13 @@
     "rarity": "Epic",
     "element": "Light",
     "region": "Loong Haven",
-    "area": "",
+    "area": "VIII",
     "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "ATK"
     ],
-    "set": 60420,
+    "set": "Dawning White",
     "set_bonus": [
       [
         "HP"
@@ -19615,13 +19615,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Loong Haven",
-    "area": "",
+    "area": "XII",
     "gacha": "Celestial Crafts",
     "description": "+6%",
     "stats": [
       "SPD"
     ],
-    "set": 60423,
+    "set": "Formless Waters",
     "set_bonus": [
       [
         "SPD"
@@ -19642,12 +19642,12 @@
     "element": "Fire",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+27",
     "stats": [
       "DEF"
     ],
-    "set": 68904,
+    "set": "Worldly Moment",
     "set_bonus": [
       [
         "ATK"
@@ -19823,13 +19823,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Aqualis",
-    "area": "",
+    "area": "II",
     "gacha": "Ukiyo Tales",
     "description": "For every Goddess Statue ×1 activated, +30",
     "stats": [
       "ATK"
     ],
-    "set": 60321,
+    "set": "Enigma",
     "set_bonus": [
       [
         "SPD"
@@ -19977,13 +19977,13 @@
     "rarity": "Epic",
     "element": "Fire",
     "region": "Aqualis",
-    "area": "",
+    "area": "VIII",
     "gacha": "Ukiyo Tales",
     "description": "+21",
     "stats": [
       "Effect RES"
     ],
-    "set": 60324,
+    "set": "Realm of Shiranui",
     "set_bonus": [
       [
         "HP"
@@ -20139,7 +20139,7 @@
     "stats": [
       "HP"
     ],
-    "set": 60323,
+    "set": "Golden Surge",
     "set_bonus": [
       [
         "ATK"
@@ -20773,7 +20773,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60220,
+    "set": "Fractured Luminary",
     "set_bonus": [
       [
         "ATK"
@@ -20825,7 +20825,7 @@
     "stats": [
       "ATK"
     ],
-    "set": 60423,
+    "set": "Formless Waters",
     "set_bonus": [
       [
         "SPD"
@@ -20872,12 +20872,12 @@
     "element": "Water",
     "region": "Loong Haven",
     "area": "",
-    "gacha": "Celestial Crafts",
+    "gacha": "Ethereal Oracle",
     "description": "+138",
     "stats": [
       "HP"
     ],
-    "set": 68903,
+    "set": "Time's Delight",
     "set_bonus": [
       [
         "SPD"
@@ -20897,13 +20897,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Aqualis",
-    "area": "",
+    "area": "VII",
     "gacha": "Ukiyo Tales",
     "description": "For every Destiny Fruit ×2 consumed, +24",
     "stats": [
       "SPD"
     ],
-    "set": 60323,
+    "set": "Golden Surge",
     "set_bonus": [
       [
         "ATK"
@@ -20923,13 +20923,13 @@
     "rarity": "Epic",
     "element": "Water",
     "region": "Verdantglade",
-    "area": "",
+    "area": "VIII",
     "gacha": "Sylvan Relics",
     "description": "+138",
     "stats": [
       "HP"
     ],
-    "set": 60123,
+    "set": "Pristine Waters",
     "set_bonus": [
       [
         "SPD"
@@ -21235,13 +21235,13 @@
     "rarity": "Epic",
     "element": "Dark",
     "region": "Loong Haven",
-    "area": "",
+    "area": "IX",
     "gacha": "Celestial Crafts",
     "description": "+27",
     "stats": [
       "ATK"
     ],
-    "set": 60421,
+    "set": "Illusory Ascension",
     "set_bonus": [
       [
         "SPD"
@@ -21423,7 +21423,7 @@
     "stats": [
       "DEF"
     ],
-    "set": 60422,
+    "set": "Endless Romance",
     "set_bonus": [
       [
         "HP"
@@ -21729,13 +21729,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Cinder Ridge",
-    "area": "",
+    "area": "III",
     "gacha": "Machina Trove",
     "description": "+21",
     "stats": [
       "SPD"
     ],
-    "set": 60222,
+    "set": "Howling Gale",
     "set_bonus": [
       [
         "ATK"
@@ -21807,13 +21807,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Verdantglade",
-    "area": "",
+    "area": "IX",
     "gacha": "Sylvan Relics",
     "description": "Every time you spend Chrono Sand ×1500, +30.",
     "stats": [
       "DEF"
     ],
-    "set": 60122,
+    "set": "Predator or Prey",
     "set_bonus": [
       [
         "HP"
@@ -21885,13 +21885,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Aqualis",
-    "area": "",
+    "area": "X",
     "gacha": "Ukiyo Tales",
     "description": "For every Critical Hit ×6 received in battle, +152",
     "stats": [
       "HP"
     ],
-    "set": 60322,
+    "set": "Whirling Leaves",
     "set_bonus": [
       [
         "DEF"
@@ -21963,13 +21963,13 @@
     "rarity": "Epic",
     "element": "Wind",
     "region": "Verdantglade",
-    "area": "",
+    "area": "V",
     "gacha": "Sylvan Relics",
     "description": "For every 1 Raw Ore mining(s), +152",
     "stats": [
       "HP"
     ],
-    "set": 60122,
+    "set": "Predator or Prey",
     "set_bonus": [
       [
         "HP"
